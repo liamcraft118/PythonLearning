@@ -38,3 +38,26 @@ class DB(object):
         cursor.execute(select)
         result = cursor.fetchall()
         return result
+
+
+if __name__ == '__main__':
+    connection = pymysql.connect(host='localhost',
+                                 port=3306,
+                                 user='root',
+                                 password='1234!@#$',
+                                 db='nga_wszt',
+                                 charset='utf8')
+    sql = '''
+    CREATE TABLE IF NOT EXISTS topic(
+    topic_id INT AUTO_INCREMENT,
+    title VARCHAR(100),
+    url VARCHAR(100),
+    craete_time VARCHAR(100),
+    reply_time VARCHAR(100),
+    reply VARCHAR(100),
+    PRIMARY KEY(topic_id)
+    )
+    '''
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    connection.commit()
