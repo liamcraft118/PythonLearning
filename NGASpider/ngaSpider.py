@@ -31,12 +31,26 @@ def writeToFile(html_str):
 
 def downloadPage(ngaDownloader, index):
     url = 'https://bbs.nga.cn/thread.php?fid=-7&page=%d' % index
-    source = ngaDownloader.download(url)
-    # source = openFile()
+    # source = ngaDownloader.download(url)
+    source = openFile()
 
+    html = etree.HTML(source)
+    # content = html.xpath("//tbody//a[@class='topic']/text() \
+                         # | //tbody//a[@class='author']/text() \
+                         # | //tbody//a[@class='author']/@title \
+                         # | //tbody//span[contains(@id,'t_pt')]/text() \
+                         # | //tbody//span[contains(@id,'t_tr')]/text()")
+    # tbody = html.xpath("//tbody")[0]
+    # topic = tbody.xpath("a")
+    topic = html.xpath("//tbody[//a[@class='topic']][//a[@class='author']][//span[@class='replyer']]")
+    # content = tbody.xpath("//a[@class='topic']text()")
+    print(topic)
+
+    return
     html = etree.HTML(source)
     html_str = etree.tostring(html, encoding='utf-8').decode('utf-8')
     writeToFile(html_str)
+
 
     topics = list()
     parse = Parse(source)
@@ -49,11 +63,16 @@ def downloadPage(ngaDownloader, index):
     db = DB()
     db.connect()
 
+    print('replies %s' % len(replies))
+    print('create_times %s' % len(create_times))
+    print('reply_times %s' % len(reply_times))
+    print('urls %s' % len(urls))
+    print('titles %s' % len(titles))
     for i in range(len(replies)):
         topic = Topic()
         topic.reply = replies[i]
         topic.create_time = create_times[i]
-        topic.reply_time = reply_times[i]
+        # topic.reply_time = reply_times[i]
         topic.url = urls[i]
         topic.title = titles[i]
         topics.append(topic)
@@ -66,9 +85,13 @@ def downloadPage(ngaDownloader, index):
 
 
 def main():
-    for i in range(1, 101):
-        ngaDownloader = Downloader()
-        downloadPage(ngaDownloader, i)
+    ngaDownloader = Downloader()
+    downloadPage(ngaDownloader, 1)
+
+    # for i in range(1, 101):
+        # ngaDownloader = Downloader()
+        # downloadPage(ngaDownloader, i)
+
 
 if __name__ == '__main__':
     main()

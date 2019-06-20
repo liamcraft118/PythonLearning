@@ -1,110 +1,1276 @@
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<meta http-equiv="refresh" content="25; url=/" />
-<meta name="Description" content="NGA 最专业的魔兽世界讨论 及综合游戏玩家社区" />
-<meta name="Keywords" content="NGA,艾泽拉斯,玩家社区,大漩涡,魔兽世界,魔兽世界中文数据库,wow,world of warcraft,WoW,World of Warcraft" />
-<title>欢迎访问NGA玩家社区</title>
-<style>
-body{background:#111;font-family:'Microsoft YaHei', Verdana, Tahoma, Arial, simsum;font-size:20px;color:#555;text-align:center;margin:0px;line-height:1.83em;}
-img {border:none}
-#mc {background:#222;border-bottom:0.05em solid #555;font-weight:bold;padding-top:1em}
-a:link, a:visited, a:active{text-decoration:none;color:#B39F67}
-a:hover{text-decoration:underline;color:#D4C8A0}
-
-#s7 {margin:6.5em 0px;font-size:0.5em;letter-spacing:0.33em}
-#s9 {vertical-align:middle;font-size:0px;line-height:0px}
-</style>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK"/>
+<meta name="apple-itunes-app" content="app-id=836485862"/>
+<meta name="renderer" content="webkit|ie-stand|ie-comp"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge; IE=11; IE=10; IE=9; IE=8"/>
+<meta http-equiv="Cache-Control" content="no-transform"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="description" content="活跃的网事杂谈主题论坛,资讯/攻略/即时交流"/>
+<meta name="keywords" content="网事杂谈"/><title>网事杂谈 NGA玩家社区</title>
 <script type="text/javascript">
-var __AJAX_DOMAIN = location.host.replace(/^[^\.]+\./,''),
-_P = location.protocol,
-_PR = _P+'//img4.nga.178.com',
-__COMMONRES_PATH = _PR+'/common_res',
-__IMG_BASE = _PR, 
-__IMG_STYLE = _PR+'/ngabbs/nga_classic',
-__RES_PATH =__IMG_STYLE,
-__CKDOMAIN = location.host,
-__SETTING = {},
-__NOW = ((new Date()).getTime()/1000),
-ngaAds = [],
+var __IMG_BASE = 'http://img4.nga.178.com',
+__IMGPATH = 'http://img4.nga.178.com/ngabbs',
+__IMG_STYLE = 'http://img4.nga.178.com/ngabbs/nga_classic',
+__COMMONRES_PATH = 'http://img4.nga.178.com/common_res',
+__BBSURL = 'http://bbs.nga.cn',
+__CKDOMAIN = 'bbs.nga.cn',
+__LASTDOMAIN = '3336',
+__ATTACH_BASE = 'https://img7.nga.178.com:8081',
+__ATTACH_BASE_UPLOAD = 'img7.nga.178.com:8080',
+__ATTACH_BASE_UPLOAD_SEC = 'img7.nga.178.com:8081',
+__ATTACH_BASE_VIEW = 'img.nga.178.com',
+__ATTACH_BASE_VIEW_SEC = 'img.nga.178.com',
+__RES_BASE = 'img4.nga.178.com',
+__RES_BASE_SEC = 'img4.nga.178.com',
+__DSBASE = 'http://g1.tagtic.cn/v1/xingyou/c',
+__NOW = 1561019000
+if(location.protocol=='https:'){
+	;(function(){var i=0,a=arguments
+		for(;i&amp;amp;amp;amp;amp;amp;amp;lt;a.length;i++)
+			this[a[i]]=this[a[i]].replace(/^https?:\/\/[^\/]+/,'https://img4.nga.178.com')
+		})('__IMG_BASE','__IMGPATH','__IMG_STYLE','__COMMONRES_PATH');
+	__DSBASE = __DSBASE.replace(/^http:/,'https:')
+	}
+var __CURRENT_UNAME = '漂亮朋友。',
+__CACHE_PATH = './data/bbscache',
+__MISC_COOKIE_NAME = 'bbsmisccookies',
+__CHARSET = 'GBK',
+ngaAds=[],
+__STYLE = [
+['default', __IMG_STYLE+'/css_default.css?7890268', __IMG_STYLE+'/js_color.js?7890268'],
+['teal', __IMG_STYLE+'/css_default1.css?7890268', __IMG_STYLE+'/js_color1.js?7890268'],
+['purp', __IMG_STYLE+'/css_default2.css?7890268', __IMG_STYLE+'/js_color2.js?7890268'],
+['dark', __IMG_STYLE+'/css_default3.css?7890268', __IMG_STYLE+'/js_color3.js?7890268']
+],
 __SCRIPTS={
-lib:__COMMONRES_PATH+'/js_commonLib.js?120862',
-dsList:__RES_PATH+'/js_dslist_default.js?120465',
-dsid_bbs_ads12:_P+'//g1.tagtic.cn/v1/xingyou/c/778.js',
-dsCommon:__COMMONRES_PATH+'/js_dscommon.js?120465',
-//ds178:__IMG_BASE+'/proxy/cache_attach/ds_list.js?'+Math.floor(__NOW/900),
-
-syncLoad:function(){var x = '',a=arguments;
-	for(var i=0;i&lt;a.length;i++)
-		if(a[i])
-			x+='&lt;scr'+'ipt src="'+this[a[i]]+'" type="text/javasc'+'ript"&gt;&lt;/scr'+'ipt&gt;';
-	document.write(x)
+lib:__COMMONRES_PATH+'/js_commonLib.js?120865',
+common:__COMMONRES_PATH+'/js_commonui.js?5818286',
+forum:__COMMONRES_PATH+'/js_forum.js?3072045',
+commonSpec:__IMG_STYLE+'/js_default.js?9906961',
+bbscode:__COMMONRES_PATH+'/js_bbscode_core.js?1312292',
+bbscodeSpec:__IMG_STYLE+'/js_bbscode_smiles.js?2965893',
+post:__COMMONRES_PATH+'/js_postfunc_v2.js?3072045',
+mainMenu:__COMMONRES_PATH+'/js_mainMenu.js?110862',
+customBg:__IMG_STYLE+'/js_customBg.js?111108',
+dsList:__IMG_STYLE+'/js_dslist_default.js?120466',
+dsCommon:__COMMONRES_PATH+'/js_dscommon.js?1204469',
+dsid_bbs_ads24:__DSBASE+'/715.js',
+dsid_bbs_ads22:__DSBASE+'/718.js',
+dsid_bbs_ads12:__DSBASE+'/778.js',
+dsid_bbs_ads1:__DSBASE+'/714.js',
+combine:__IMG_BASE+'/proxy/cache_attach/js_combine_data.js?'+Math.floor(__NOW/900),
+//dsid_bbs_ads44:__DSBASE+'/6001.js',
+dsid_bbs_ads45:__DSBASE+'/6002.js',
+dsid_bbs_ads46:__DSBASE+'/200810.js',
+dsid_bbs_ads47:__DSBASE+'/200811.js',
+dsid_bbs_ads49:__DSBASE+'/200809.js',
+dsid_bbs_ads50:__DSBASE+'/200808.js',
+dsid_bbs_ads51:__DSBASE+'/200807.js',
+jsDebug:'http://127.0.0.1/jsDebug.js',
+notification:__COMMONRES_PATH+'/js_notification.js?8649565',
+md5:__COMMONRES_PATH+'/js_md5.js?140333',
+admin:__COMMONRES_PATH+'/js_admin.js?8649565',
+d3ItemSelect:__COMMONRES_PATH+'/js_d3_item_select.js?120648',
+iframeRead2:__COMMONRES_PATH+'/js_iframeRead.js?130141',
+loaderRead:__COMMONRES_PATH+'/js_box.js?8649565',
+userItem:__COMMONRES_PATH+'/js_userItem.js?131053',
+highlighter:__COMMONRES_PATH+'/js_highlighter.js?140331',
+armory:__IMG_STYLE+'/js_armory.js?120683',
+read:__COMMONRES_PATH+'/js_read.js?3556135',
+message:__COMMONRES_PATH+'/js_message.js?121093',
+userScript:__IMG_STYLE+'/js_userScript.js?131025',
+quoteTo:__COMMONRES_PATH+'/js_quote_to.js?432462',
+ucp:__COMMONRES_PATH+'/js_ucp.js?121155',
+imgEdit:__COMMONRES_PATH+'/js_imageEdit.js?121014',
+stat:__COMMONRES_PATH+'/js_logtagtic.min.js?453273',
+service:'/js_service.js?778546'
+},
+//loadscriptstart
+__CURRENT_UID = parseInt('42354193',10),
+__CURRENT_AVATAR = 'http://img.nga.178.com/avatars/2002/611/864/002/42354193_0.jpg?39',
+__GP = {
+_b:{//lib_core::_GB~
+admin : 1,
+'super' : 2,
+greater : 4,
+superlesser : 8,
+lesser : 16,
+normal : 32,
+topic : 64,
+reply : 128,
+vote : 256,
+comment : 512,
+search : 524288,
+voteBet : 1048576
+},
+_ub:{
+ubSecAct:1024,
+ubSecView:8,
+ubSecViewS:2048,
+ubStaff:16,
+ubMod:4,
+ubExA:128,
+ubExASucc:256
+},
+_n:{
+_bit:'622816',
+admincheck:'0',
+rvrc:'10',
+active:'4',
+userBit:'1441792'},init:function(){
+	for(var k in this._n){
+		this[k] = parseInt(this._n[k],10)
+		if(!this[k])this[k]=0
+		}
+	for(var k in this._b)
+		this[k] = this._b[k]&amp;amp;amp;amp;amp;amp;amp;amp;this._bit ? 1 : 0
+	for(var k in this._ub)
+		this[k] = this._ub[k]&amp;amp;amp;amp;amp;amp;amp;amp;this.userBit ? 1 : 0
 	}
-};//ce
-__SCRIPTS.syncLoad('lib')
-</script><script src="https://img4.nga.178.com/common_res/js_commonLib.js?120862" type="text/javascript"></script>
-<script type="text/javascript">
-var d12 = domStorageFuncs.get('adslazyload_bbs_ads12')
+}//ce
+__GP.init()
+//loadscriptend
+_NotLoad178NavAll=1
+;(function(){
+var T=__SCRIPTS,ev,h,tor=function(f){setTimeout(f)}
+T.loading=0
+T.lo={}
+T.cl=[]
+T.load = function(s,f,c,y){
+var x = (!(y&amp;amp;amp;amp;amp;amp;amp;amp;1)||!h)?document.createElement('script'):''
+if(!h){ev=('readyState' in x)?'onreadystatechange':'onload'
+	h=document.getElementsByTagName('head')[0]}
+if(s.charAt(0)=='/'||s.substr(0,4)=='http'){
+	var k='s_'+Math.random()
+	this[k] = s
+	s=k}
+else if(!this[s]||this.src(s))
+	return
+if(f)this.cl[s]=f
+if((y&amp;amp;amp;amp;amp;amp;amp;amp;2)==0)
+	this.loading++
+if(y&amp;amp;amp;amp;amp;amp;amp;amp;1)
+	document.write('&amp;amp;amp;amp;amp;amp;amp;lt;script src="'+this[s]+'" type="text/javascr'+'ipt" '+ev+'="__SCRIPTS.ol(this,\''+s+'\')" onerror="__SCRIPTS.oe(this)" '+(c?'charset="'+c+'"':'')+'&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/scr'+'ipt&amp;amp;amp;amp;amp;amp;amp;gt;')
+else{x.src=this[s]
+	x.type='text/javascript'
+	if(c)x.charset=c
+	x[ev]=function(){__SCRIPTS.ol(this,s)}
+	x.onerror=function(){__SCRIPTS.oe(this)}
+	h.insertBefore(x,h.firstChild)}
+}//
+T.src = function(s){}//
+T.asyncLoad = function(){var a=arguments, x=a.length,y
+if(typeof a[x-1]=='number')y=a[--x]
+for(var i=0;i&amp;amp;amp;amp;amp;amp;amp;lt;x;i++){if(a[i]){this.load(a[i],typeof a[i+1]=='function'?a[++i]:0,0,y)}}
+}//
+T.syncLoad = function(){var a=arguments;a[a.length]=1;a.length++;T.asyncLoad.apply(this,a)}//
+T.oe=function(o){console.log(o.src+' load error');if(this.loading&amp;amp;amp;amp;amp;amp;amp;gt;0)this.loading--}//
+T.ol=function(o,n){
+if(ev!='onload'){var r=o.readyState
+	if (r &amp;amp;amp;amp;amp;amp;amp;amp;&amp;amp;amp;amp;amp;amp;amp;amp; r!='loaded' &amp;amp;amp;amp;amp;amp;amp;amp;&amp;amp;amp;amp;amp;amp;amp;amp; r!='complete')return}
+this.lo[n]=1
+if(this.loading&amp;amp;amp;amp;amp;amp;amp;gt;0)this.loading--
+if(this.cl[n])tor(this.cl[n])
+if(this.loading&amp;amp;amp;amp;amp;amp;amp;lt;1){while(this.cl.length)tor(this.cl.shift())}
+}//
+T.wload=function(f){if(this.loading&amp;amp;amp;amp;amp;amp;amp;lt;1)return f();this.cl.push(f)}//
+})();
 
-__SCRIPTS.syncLoad('dsList',d12?null:'dsid_bbs_ads12','dsCommon')
-</script><script src="https://img4.nga.178.com/ngabbs/nga_classic/js_dslist_default.js?120465" type="text/javascript"></script><script src="https://g1.tagtic.cn/v1/xingyou/c/778.js" type="text/javascript"></script><script src="https://img4.nga.178.com/common_res/js_dscommon.js?120465" type="text/javascript"></script><script src="https://g1.tagtic.cn/v1/xingyou/c/778.js" type="text/javascript"></script><script src="undefined" type="text/javascript"></script><script src="undefined" type="text/javascript"></script>
+__CURRENT_FID='-7'|0
+
+</script>
 <script type="text/javascript">
-if(d12){
-	if(!ngaAds.add)ngaAds.add = ngaAds.push
-	eval(d12)
-	}
+var tmpp = window.__DEBUG || __GP.lesser || __GP.ubMod
+if(tmpp &amp;amp;amp;amp;amp;amp;amp;amp;&amp;amp;amp;amp;amp;amp;amp;amp; window.localStorage)
+	ngaAds.wait=[]
+__SCRIPTS.syncLoad('lib','dsList','combine','dsCommon','md5','common','forum', tmpp?'admin':'' , tmpp? 'loaderRead':'', tmpp?function(){commonui.aE(window,'bodyInit',function(){_LOADERREAD.init()})}:'')
 </script>
 <script type="text/javascript">
 __COOKIE.init(__CKDOMAIN,'/','bbsmisccookies')
-var __CK = __COOKIE
-function getJump(){
-var l = window.location
-if (l.search.match(/nga\.cn|nga\.donews\.com|ngacn\.cc|178\.com|ngabbs\.com|bigccq\.cn/))
-	l.replace(l.search.substr(1))
-else
-	l.replace('http://'+l.host)
-}
+__SETTING.init(0)
+</script>
+<script type="text/javascript">
+__SCRIPTS.syncLoad('commonSpec','bbscode','bbscodeSpec','mainMenu','customBg','post')
 </script>
 </head>
 <body>
-<center>
+<div class="clear minWidthSpacer" id="minWidthSpacer"/>
+<div id="mmc">
+<script type="text/javascript">
+commonui.ifuserscript()
+commonui.initAfterBody()
+</script>
 
 <div id="mc">
-<span id="jump2" style="visibility: hidden"><a title="继续访问艾泽拉斯国家地理" href="javascript:getJump()" onclick="getJump()">点此跳过广告</a>(稍后自动跳转)</span>
+<div id="mainmenu">
+<a href="/nuke.php?func=ucp&amp;uid=42354193">用户中心</a> <a href="/nuke.php?__lib=login&amp;__act=logout">登出</a>
+<a href="javascript:void(0)" class="end"/></div>
+<script type="text/javascript">commonui.mainMenu.init(__CURRENT_UNAME,'',__CURRENT_AVATAR,'',__CURRENT_UID);</script>
+
+
+<div id="m_nav" class="module_wrap">
+<div class="nav"><a href="/" class="nav_root">NGA玩家社区</a><span class="nav_spr">»</span><h1><a href="/thread.php?fid=-7" class="nav_link" data-fb="8360">网事杂谈</a></h1><div class="clear"/></div>
 </div>
 
-
-<div id="s7">
-<div id="s9">
 <script type="text/javascript">
-try{
-	if (ngaAds.bbs_ads12)
-		document.write( ngaAds.genAds(ngaAds.bbs_ads12) );
+commonui.advNav($('m_nav'))
 
-	var u = navigator.userAgent+''
-	if(u.match(/iphone|mobile safari|IEMobile/i)){//手机
-		$('mc').style.fontSize = '1.8em'
-		$('mc').style.lineHeight = '1.83em'
-		}
-	else if(u.match(/mobile|Tablet|ipad/i)){//平板 一般只标注mobile而非mobile safari firefox标注tablet
-		$('mc').style.fontSize = '1.4em'
-		$('mc').style.lineHeight = '1.83em'
-		}
+__CURRENT_FID='-7'|0
+__CURRENT_F_BIT='8360'|0
+__CURRENT_F_ALLOWPOST='+p1095,+u1,+w,+r-7_-500'
+__ALL_FORUM_DATA = {'-7':[-7,'网事杂谈','',0,64|4|2],'-576177':['-576177','影音讨论区','电影音乐等视频的讨论社区','','7'|0],'-8725919':['-8725919','小窗视界','旅游，摄影版面','','3'|0],'-353371':['-353371','萌萌宠物','','','7'|0],'-81981':['-81981','生命之杯','足球讨论','','7'|0],'-608808':['-608808','恩基爱厨艺美食交流','烹饪爱好者的天堂','','7'|0],'-1742851':['-1742851','青玉巫婆的小屋','GirlsTalk','','3'|0],'-343809':['-343809','汽车俱乐部','','','7'|0],'414':['414','游戏综合讨论','','','7'|0],'485':['485','篮球','','','3'|0],'436':['436','消费电子 IT新闻','','','7'|0],'498':['498','二手交易','','','3'|0],'490':['490','魔兽争霸','','8875070','40'|0],'428':['428','手机 网页游戏综合讨论','','8876060','2606'|0],'570':['570','优惠信息 购物指南','','12700430','2606'|0],'524':['524','漩涡书院','','15947599','40'|0],'-1459709':['-1459709','职场人生','','16446619','2606'|0]}
+__ALL_SET_DATA = {}
+__SELECTED_FORUM='414,-576177,-81981,-343809,-608808,-353371,436,-7'
+__SELECTED_FORUM_ADD=''
+__SELECTED_SET=''
+__SUB_AND_UNION_FORUM_AND_SET = ' -576177,-8725919,-353371,-81981,-608808,-1742851,-343809,414,485,436,498,490,428,570,524,-1459709'
+if(!__SELECTED_FORUM)__SELECTED_FORUM = __CURRENT_FID+''
+__CURRENT_ORDER=''
+
+__UNION_FORUM='414,-576177,-81981,-343809,485,-608808,-8725919,498,-1742851,-353371,436'
+__UNION_FORUM_DEFAULT='414,-576177,-81981,-343809,-608808,-353371,436'
+</script>
+<script type="text/javascript">//everyload
+
+__CURRENT_PAGE='1'|0
+commonui.addForumViewHis('网事杂谈',__CURRENT_FID,'',window.__CURRENT_STID,__CURRENT_PAGE)
+
+</script>
+
+<div id="m_pbtntop" class="module_wrap">
+<div class="w100">
+<div class="right_"><a name="forumBtnScript" href="/post.php?fid=-7" onclick="if(window.postfunc &amp;&amp; postfunc.addForumSelect)return postfunc.addForumSelect(event)" id="forumBtnScript">发表新贴</a><script type="text/javascript">commonui.forumBtns.load(document.getElementsByName('forumBtnScript')[0].parentNode,1,__CURRENT_FID)</script></div><div class="left" id="pagebtop" name="pageball"><a href="/thread.php?fid=-7&amp;page=2" title="下一页" class="pager_spacer">下一页(2)</a><span name="pageBtnScript" class="x"/><script>var __PAGE = {0:'/thread.php?fid=-7',1:111073,2:1,3:20};commonui.pageBtn(document.getElementsByName('pageBtnScript')[0].parentNode,__PAGE,true)</script></div><div class="clear"/>
+</div>
+</div>
+
+<div id="m_threads" class="module_wrap">
+<div class="w100">
 
 
-	setTimeout("getJump()",15000)
-    
-   setTimeout(function(){document.getElementById('jump2').style.visibility = '';document.getElementById('jump1').style.visibility = ''},1500)
-	}
-catch(e){
-	alert(e)
-	}
-</script><a href="https://g1.tagtic.cn/don/cl?encode_nyg=cmVxaWQ9RV9ubUFpeGRnYXFNa1kzSHZnb1FXJm9zPTMmcmVmPWh0dHBzJTNBJTJGJTJGYmJzLm5nYS5jbiUyRm1pc2MlMkZhZHBhZ2VfaW5zZXJ0XzIuaHRtbCUzRmh0dHBzJTNBJTJGJTJGYmJzLm5nYS5jbiUyRnRocmVhZC5waHAlM0ZmaWQlM0QtNyUyNnBhZ2UlM0QyJmFkdmVydXNlcmlkPTU1NiZvcmRlcmlkPTQ0NzImYWlkPTUyODQmbWlkPTUyODQxJnByb3ZpbmNlSWQ9MSZwYXltZW50PWNwbSZncm91cF9pZD01Mjg0MSZwb3NpdGlvbj02NjImdz03NjAmaD01MDAmY29zdD0xMDAmY29lZmZpY2llbnQ9MSZzbG90QmluZGluZz1zaW5nbGUmaXNVbmlvbj0xJm5leHR1cmw9aHR0cHMlM0ElMkYlMkZtdGsuYm5ldC4xNjMuY29tJTJGYyUzRnAlM0RjbzE5NzYlMjZzJTNENDA3MDhlMTZiYmYzZDhiMTVjMzg5ODQwOWY3YzNjZTU&amp;v_y=sdvj6GE%2B1eXZPWjzOC%2FwpRTCuuXcUSmGY9OZK9T6CjQ%3D&amp;isClkFre=0" target="_blank" style="display:block;border:1px solid #000000;width:760px;height:500px;margin:auto;text-align:center;overflow:hidden;" title=""><img src="https://xyoss.g.com.cn/ad-material//images/KNbsFAa3m48uJp2v5PJUragzIvodaUBcXrtBJQH9.jpeg" title="" style=" ;width:760px ;height:500px;margin:auto;margin-left:auto" onload="ngaAds[&quot;bbs_ads12&quot;].onload.apply(this)" /><br /><img src="https://img4.nga.178.com/ngabbs/nga_classic/admark.png" style="margin:-18px 0 auto calc(100% - 48px)" /></a>
+
+		<div id="toptopics" class="forumbox"><div class="contentBlock"><h3><a class="block_txt block_txt_c0" href="/thread.php?fid=-7"> 网事杂谈 </a> <a href="/read.php?tid=3593852">我的水就是你的水……杂谈区 定时冲水 老贴无法浏览 博物馆已重新开启</a></h3> <span class="gray descrip"/> <br/>
+				<span class="postrow"><span id="toppedtopic" class="c2 postcontent ubbcode">[table]<br/>[tr]<br/>[td colspan=2]<br/>[b][size=200%][color=teal]1. 杂谈区的管理主要依据用户的讨论态度，而非其观点，提倡讲道理，反对攻击性发言，一个用户的发言中对[/color][color=darkred]其他人[/color][color=teal]所体现的[/color][color=darkred]恶意[/color][color=teal]越大，就可能受到越重的处罚[/color][/size]<br/>[size=200%][color=teal]2. 版主删帖/锁帖不接受任何投诉和质询，版主认为不适合讨论(争议太大/带敏感词/太三俗/有专门讨论的版面)的话题会被删除，无需给出任何理由或解释，屡次发布版主不建议讨论的话题可能会受到处罚。不接受此项规定请不要发帖，发帖则视为认同。[/color][/size][url=bbs.ngacn.cc/read.php?pid=135487042] 具体细则点此 [/url][/b][/td][/tr]<br/>[tr]<br/>[td1][align=center][size=110%][b]·[/b][/size][url=/read.php?tid=4111410][size=110%][color=red][b]艾泽拉斯国家地理(NGA)通用版规[/b][/color][/size][/url][size=110%][b]·[/b][/size] [url=bbs.ngacn.cc/read.php?pid=135487042][size=110%][color=red][b]网事杂谈版规[/b][/color][/size][/url][size=110%][b]·[/b][/size][url=bbs.ngacn.cc/read.php?tid=10189021][size=110%][color=red][b]网事杂谈临时版规汇总[/b][/color][/size][/url][/align][/td][td1][align=center][url=/thread.php?fid=-187579][b][color=royalblue][size=110%]精华帖汇总：大旋涡历史博物馆[/size][/color][/b][/url][url=bbs.ngacn.cc/read.php?tid=10812138][color=red][b][size=110%]沉贴打捞/防冲水/申精通道[/size][/b][/color][/url][url=http://app.nga.cn/][b][color=royalblue]手机客户端下载地址[/color][/b][/url][url=bbs.ngacn.cc/read.php?tid=9722505][color=royalblue][b]移动客户端建议及BUG反馈帖[/b][/color][/url][/align][/td][/tr][tr][td1][b][size=110%]版务公告 :[/size][/b][url=bbs.ngacn.cc/read.php?tid=10390542][color=red][b]对于水区政治贴尺度变更的说明[/b][/color][/url][url=bbs.ngacn.cc/read.php?tid=9825359][color=red][b]请谨慎对待论坛内的借贷关系[/b][/color][/url][url=/read.php?tid=10939583][color=red][b]第四次提醒各位更改一次帐号密码[/b][/color][/url][url=/read.php?tid=10595045][color=red][b]转帖需附原文链接，不得随意删改原文[/b][/color][/url][/td][td1][b][size=110%]论坛活动 :[/size][/b][url=/read.php?tid=17196843][b][color=red]白昼的幻想 —— 天野喜孝艺术展即将开展[/color][/url][/b][/td][/tr]<br/>[tr][td colspan=2][b]专栏作者：[url=/thread.php?stid=13574582]十二囧神[/url] [url=/thread.php?stid=13210440][color=red]音乐茶话会[/color][/url] [url=/thread.php?stid=13059811]達爾文的旗幟[/url] [url=/thread.php?stid=13059859]刘备字大爷[/url] [url=/thread.php?stid=13059889]雷若阿[/url] [url=/thread.php?stid=13059923]毒蛇KISS[/url] [url=/thread.php?stid=13059946]面包店王二[/url] [url=/thread.php?stid=13060079]破晓の刺[/url] [url=/thread.php?stid=13065424]slayershute[/url] [url=/thread.php?stid=13065476]potato0124[/url] [url=/thread.php?stid=13065407]银翼的两仪之鸦[/url] [url=/thread.php?stid=13065459]lilac17[/url] [url=/thread.php?stid=13065613]无极小屁孩[/url] [url=/thread.php?stid=13065630]风色飞[/url][url=/thread.php?stid=13074245]高科技[/url] [url=/thread.php?stid=13080967]烂耳朵拉轰[/url] [url=/thread.php?stid=13059785]宁芙[/url] [url=/thread.php?stid=13081709]千炀[/url] [url=/thread.php?stid=13110382]乌咪漫评[/url] [url=/thread.php?stid=13110420]Rebellion x[/url] [url=/thread.php?stid=13631138]部落大酋长希尔瓦娜斯[/url] [url=/read.php?tid=13049890]申请通道[/url][/b][/td][/tr]<br/>[/table]<span id="toptopicadd"/><br/>========<br/>[tid=17556126][b][color=red][突发事件] 部分版面/合集关闭访问公告[/color][/b][/tid] [tid=17391781][b][color=red][福利活动]NGA-6.18福利活动合集[/color][/b][/tid] [tid=16526539][b][color=red]NGA春季运营招聘开始啦！有兴趣的小伙伴们看过来~(职位已更新)[/color][/b][/tid] [tid=15712428][b][color=orange]关于目前APP广告过于频繁的情况[/color][/b][/tid] [tid=12964529][b][color=red][公告]关于在网事杂谈版块赠送物品帖子的相关事宜，以及对广告贴的判断标准[/color][/b][/tid] [tid=12068176][b][color=red][公告]请勿发表VPN/科学上网相关话题[/color][/b][/tid] [tid=10595045][b][color=red][公告]水区转帖需附带原文链接，不得随意删改原文。[/color][/b][/tid] </span></span>
+				<script type="text/javascript">commonui.parseToppedTopic($('toppedtopic'))</script></div></div>
+<span/><script type="text/javascript">ngaAds.bbs_ads9_gen()</script><span id="sub_forums_c"><a href="/thread.php?fid=-576177">影音讨论区 (电影音乐等视频的讨论社区)</a> <a href="/thread.php?fid=-8725919">小窗视界 (旅游，摄影版面)</a> <a href="/thread.php?fid=-353371">萌萌宠物 ()</a> <a href="/thread.php?fid=-81981">生命之杯 (足球讨论)</a> <a href="/thread.php?fid=-608808">恩基爱厨艺美食交流 (烹饪爱好者的天堂)</a> <a href="/thread.php?fid=-1742851">青玉巫婆的小屋 (GirlsTalk)</a> <a href="/thread.php?fid=-343809">汽车俱乐部 ()</a> <a href="/thread.php?fid=414">游戏综合讨论 ()</a> <a href="/thread.php?fid=485">篮球 ()</a> <a href="/thread.php?fid=436">消费电子 IT新闻 ()</a> <a href="/thread.php?fid=498">二手交易 ()</a> <a href="/thread.php?fid=490">魔兽争霸 ()</a> <a href="/thread.php?fid=428">手机 网页游戏综合讨论 ()</a> <a href="/thread.php?fid=570">优惠信息 购物指南 ()</a> <a href="/thread.php?fid=524">漩涡书院 ()</a> <a href="/thread.php?fid=-1459709">职场人生 ()</a> </span>
+<script>
+__SUB_SET = [].join(',')
+__SUB_AND_UNION_FORUM=[,-576177,-8725919,-353371,-81981,-608808,-1742851,-343809,414,485,436,498,490,428,570,524,-1459709].join(',')
+$('sub_forums_c').innerHTML=''
+$('sub_forums_c').appendChild(commonui.selectForum.genSubForum())
+</script>
+
+<table class="forumbox topicrowsnone" cellspacing="1px" id="topicrows">
+	<!--topicliststart-->
+	
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_0" title="打开新窗口" href="/read.php?tid=17556126" target="_blank" class="replies">77</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17556126" id="t_tt1_0" class="topic">[突发事件] 部分版面/合集关闭访问公告</a>
+				<span id="t_pc1_0"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=35159831" class="author" id="t_ta1_0" title="用户ID 35159831">血牙酱</a><span class="silver postdate" id="t_pt1_0">1560332810</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17556126&amp;page=e" class="silver replydate" id="t_rt1_0"/><span class="replyer" id="t_tr1_0">绝剱·无穹三段</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_0','t_tt1_0','t_ta1_0','t_pt1_0',
+'t_tr1_0','t_rt1_0','t_pc1_0',
+'-7',17556126,'','','0',1560332810,1561011465,77,
+512,'AQAAACE','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_1" title="打开新窗口" href="/read.php?tid=17643831" target="_blank" class="replies">112</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643831" id="t_tt1_1" class="topic">[威廉动]国内唯一一个3000年没改名的城市，不百度的话你知道邯郸在哪吗？</a>
+				<span id="t_pc1_1"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=3396501" class="author" id="t_ta1_1" title="用户ID 3396501">Kirawing</a><span class="silver postdate" id="t_pt1_1">1561015847</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643831&amp;page=e" class="silver replydate" id="t_rt1_1"/><span class="replyer" id="t_tr1_1">搞什么无畏级</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_1','t_tt1_1','t_ta1_1','t_pt1_1',
+'t_tr1_1','t_rt1_1','t_pc1_1',
+'-7',17643831,'','','0',1561015847,1561018997,112,
+516,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_2" title="打开新窗口" href="/read.php?tid=17644317" target="_blank" class="replies">11</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644317" id="t_tt1_2" class="topic">[水一帖] 现在的年轻人真NB，居然有人酸马云是靠他爹的！</a>
+				<span id="t_pc1_2"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=3708153" class="author" id="t_ta1_2" title="用户ID 3708153">瞌睡小猫</a><span class="silver postdate" id="t_pt1_2">1561018694</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644317&amp;page=e" class="silver replydate" id="t_rt1_2"/><span class="replyer" id="t_tr1_2">hanyue</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_2','t_tt1_2','t_ta1_2','t_pt1_2',
+'t_tr1_2','t_rt1_2','t_pc1_2',
+'-7',17644317,'','','0',1561018694,1561018995,11,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_3" title="打开新窗口" href="/read.php?tid=17644199" target="_blank" class="replies">19</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644199" id="t_tt1_3" class="topic">数码闲聊站小号爆料：不谈彭总，了解到有厂商公关正在借势搞菊花，恰这份烂钱的kol好自为之吧</a>
+				<span id="t_pc1_3"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=43111389" class="author" id="t_ta1_3" title="用户ID 43111389">上课就犯困</a><span class="silver postdate" id="t_pt1_3">1561018031</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644199&amp;page=e" class="silver replydate" id="t_rt1_3"/><span class="replyer" id="t_tr1_3">sioanala</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_3','t_tt1_3','t_ta1_3','t_pt1_3',
+'t_tr1_3','t_rt1_3','t_pc1_3',
+'436',17644199,'','','0',1561018031,1561018994,19,
+8704,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_4" title="打开新窗口" href="/read.php?tid=17643593" target="_blank" class="replies">56</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643593" id="t_tt1_4" class="topic">[联动举孝廉]真有人看了国务院到底说了什么吗？</a>
+				<span id="t_pc1_4"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60030073" class="author" id="t_ta1_4" title="用户ID 60030073">Elsalos</a><span class="silver postdate" id="t_pt1_4">1561014354</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643593&amp;page=e" class="silver replydate" id="t_rt1_4"/><span class="replyer" id="t_tr1_4">alexssandro</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_4','t_tt1_4','t_ta1_4','t_pt1_4',
+'t_tr1_4','t_rt1_4','t_pc1_4',
+'-7',17643593,'','','0',1561014354,1561018994,56,
+516,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_5" title="打开新窗口" href="/read.php?tid=17638022" target="_blank" class="replies">98</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17638022" id="t_tt1_5" class="topic">19岁的妹子还能再长胸么</a>
+				<span id="t_pc1_5"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=35898892" class="author" id="t_ta1_5" title="用户ID 35898892">whitehouse101</a><span class="silver postdate" id="t_pt1_5">1560961762</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17638022&amp;page=e" class="silver replydate" id="t_rt1_5"/><span class="replyer" id="t_tr1_5">#ANONYMOUS#</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_5','t_tt1_5','t_ta1_5','t_pt1_5',
+'t_tr1_5','t_rt1_5','t_pc1_5',
+'-7',17638022,'','','0',1560961762,1561018994,98,
+516,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_6" title="打开新窗口" href="/read.php?tid=17643956" target="_blank" class="replies">12</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643956" id="t_tt1_6" class="topic">今天比赛阿根廷门将阿尔玛尼怎么了？</a>
+				<span id="t_pc1_6"/><span class="titleadd2"><a href="/thread.php?fid=-81981" class="silver">[生命之杯]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60449768" class="author" id="t_ta1_6" title="用户ID 60449768">-Truman</a><span class="silver postdate" id="t_pt1_6">1561016541</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643956&amp;page=e" class="silver replydate" id="t_rt1_6"/><span class="replyer" id="t_tr1_6">软软的说</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_6','t_tt1_6','t_ta1_6','t_pt1_6',
+'t_tr1_6','t_rt1_6','t_pc1_6',
+'-81981',17643956,'','','0',1561016541,1561018994,12,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_7" title="打开新窗口" href="/read.php?tid=17644106" target="_blank" class="replies">23</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644106" id="t_tt1_7" class="topic">安卓旗舰机的触控跟苹果差距大么？</a>
+				<span id="t_pc1_7"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=1484619" class="author" id="t_ta1_7" title="用户ID 1484619">suedej</a><span class="silver postdate" id="t_pt1_7">1561017593</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644106&amp;page=e" class="silver replydate" id="t_rt1_7"/><span class="replyer" id="t_tr1_7">无双大鸟二号</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_7','t_tt1_7','t_ta1_7','t_pt1_7',
+'t_tr1_7','t_rt1_7','t_pc1_7',
+'436',17644106,'','','0',1561017593,1561018993,23,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_8" title="打开新窗口" href="/read.php?tid=17644314" target="_blank" class="replies">6</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644314" id="t_tt1_8" class="topic">一个家庭买三辆观致什么水平？</a>
+				<span id="t_pc1_8"/><span class="titleadd2"><a href="/thread.php?fid=-343809" class="silver">[汽车俱乐部]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=345574" class="author" id="t_ta1_8" title="用户ID 345574">adsion</a><span class="silver postdate" id="t_pt1_8">1561018670</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644314&amp;page=e" class="silver replydate" id="t_rt1_8"/><span class="replyer" id="t_tr1_8">sjh2647</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_8','t_tt1_8','t_ta1_8','t_pt1_8',
+'t_tr1_8','t_rt1_8','t_pc1_8',
+'-343809',17644314,'','','0',1561018670,1561018993,6,
+8704,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_9" title="打开新窗口" href="/read.php?tid=17644358" target="_blank" class="replies">3</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644358" id="t_tt1_9" class="topic">现在去马来西亚上初中很火吗？</a>
+				<span id="t_pc1_9"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60436915" class="author" id="t_ta1_9" title="用户ID 60436915">精英中的战斗鸡</a><span class="silver postdate" id="t_pt1_9">1561018916</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644358&amp;page=e" class="silver replydate" id="t_rt1_9"/><span class="replyer" id="t_tr1_9">第2个小号</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_9','t_tt1_9','t_ta1_9','t_pt1_9',
+'t_tr1_9','t_rt1_9','t_pc1_9',
+'-7',17644358,'','','0',1561018916,1561018998,3,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_10" title="打开新窗口" href="/read.php?tid=17644279" target="_blank" class="replies">24</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644279" id="t_tt1_10" class="topic">在我印象中，上海是不是特喜欢日本</a>
+				<span id="t_pc1_10"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=40352459" class="author" id="t_ta1_10" title="用户ID 40352459">网瘾少年徐志摩</a><span class="silver postdate" id="t_pt1_10">1561018451</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644279&amp;page=e" class="silver replydate" id="t_rt1_10"/><span class="replyer" id="t_tr1_10">八冠王汉密尔顿</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_10','t_tt1_10','t_ta1_10','t_pt1_10',
+'t_tr1_10','t_rt1_10','t_pc1_10',
+'-7',17644279,'','','0',1561018451,1561018991,24,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_11" title="打开新窗口" href="/read.php?tid=17644202" target="_blank" class="replies">15</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644202" id="t_tt1_11" class="topic">男生如何学习化妆品相关知识？</a>
+				<span id="t_pc1_11"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=43351163" class="author" id="t_ta1_11" title="用户ID 43351163">shenyan24总是在的</a><span class="silver postdate" id="t_pt1_11">1561018036</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644202&amp;page=e" class="silver replydate" id="t_rt1_11"/><span class="replyer" id="t_tr1_11">东尔瓦纳丝</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_11','t_tt1_11','t_ta1_11','t_pt1_11',
+'t_tr1_11','t_rt1_11','t_pc1_11',
+'-7',17644202,'','','0',1561018036,1561018991,15,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_12" title="打开新窗口" href="/read.php?tid=17643762" target="_blank" class="replies">61</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643762" id="t_tt1_12" class="topic">[生活] 诶。。快递把我的冰淇淋放丰巢了。。这可以钢吗。。。</a>
+				<span id="t_pc1_12"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=43293393" class="author" id="t_ta1_12" title="用户ID 43293393">Oraora</a><span class="silver postdate" id="t_pt1_12">1561015448</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643762&amp;page=e" class="silver replydate" id="t_rt1_12"/><span class="replyer" id="t_tr1_12">Oraora</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_12','t_tt1_12','t_ta1_12','t_pt1_12',
+'t_tr1_12','t_rt1_12','t_pc1_12',
+'-7',17643762,'','','0',1561015448,1561018991,61,
+8708,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_13" title="打开新窗口" href="/read.php?tid=17642122" target="_blank" class="replies">45</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17642122" id="t_tt1_13" class="topic">是什么样的勇气和自信促使大众给polo定的这个价？</a>
+				<span id="t_pc1_13"/><span class="titleadd2"><a href="/thread.php?fid=-343809" class="silver">[汽车俱乐部]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60316504" class="author" id="t_ta1_13" title="用户ID 60316504">心软脾气大</a><span class="silver postdate" id="t_pt1_13">1561005322</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17642122&amp;page=e" class="silver replydate" id="t_rt1_13"/><span class="replyer" id="t_tr1_13">Tracyxy</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_13','t_tt1_13','t_ta1_13','t_pt1_13',
+'t_tr1_13','t_rt1_13','t_pc1_13',
+'-343809',17642122,'','','0',1561005322,1561018991,45,
+8708,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_14" title="打开新窗口" href="/read.php?tid=17643098" target="_blank" class="replies">42</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643098" id="t_tt1_14" class="topic">vivo 120W 超快闪充，来了！</a>
+				<span id="t_pc1_14"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=8996510" class="author" id="t_ta1_14" title="用户ID 8996510">lcmswdyq</a><span class="silver postdate" id="t_pt1_14">1561011461</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643098&amp;page=e" class="silver replydate" id="t_rt1_14"/><span class="replyer" id="t_tr1_14">火山世界树</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_14','t_tt1_14','t_ta1_14','t_pt1_14',
+'t_tr1_14','t_rt1_14','t_pc1_14',
+'436',17643098,'','','0',1561011461,1561018990,42,
+8704,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_15" title="打开新窗口" href="/read.php?tid=17644200" target="_blank" class="replies">64</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644200" id="t_tt1_15" class="topic">曾轶可发文解释机场事件：边检人员态度恶劣 如同对待畜牲</a>
+				<span id="t_pc1_15"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=25382569" class="author" id="t_ta1_15" title="用户ID 25382569">善良的好人</a><span class="silver postdate" id="t_pt1_15">1561018034</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644200&amp;page=e" class="silver replydate" id="t_rt1_15"/><span class="replyer" id="t_tr1_15">萌萌的泡面君</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_15','t_tt1_15','t_ta1_15','t_pt1_15',
+'t_tr1_15','t_rt1_15','t_pc1_15',
+'-7',17644200,'','','0',1561018034,1561018990,64,
+548,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_16" title="打开新窗口" href="/read.php?tid=17641926" target="_blank" class="replies">54</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17641926" id="t_tt1_16" class="topic">中国男篮现在算不算人才济济了</a>
+				<span id="t_pc1_16"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=41729987" class="author" id="t_ta1_16" title="用户ID 41729987">可我的头顶一片草原</a><span class="silver postdate" id="t_pt1_16">1561004248</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17641926&amp;page=e" class="silver replydate" id="t_rt1_16"/><span class="replyer" id="t_tr1_16">evasanhao</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_16','t_tt1_16','t_ta1_16','t_pt1_16',
+'t_tr1_16','t_rt1_16','t_pc1_16',
+'-7',17641926,'','','0',1561004248,1561018990,54,
+516,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_17" title="打开新窗口" href="/read.php?tid=17644135" target="_blank" class="replies">57</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644135" id="t_tt1_17" class="topic">昨天小女儿哭着说没有时间玩了，唉</a>
+				<span id="t_pc1_17"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=204438" class="author" id="t_ta1_17" title="用户ID 204438">准准</a><span class="silver postdate" id="t_pt1_17">1561017710</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644135&amp;page=e" class="silver replydate" id="t_rt1_17"/><span class="replyer" id="t_tr1_17">应岚</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_17','t_tt1_17','t_ta1_17','t_pt1_17',
+'t_tr1_17','t_rt1_17','t_pc1_17',
+'-7',17644135,'','','0',1561017710,1561018989,57,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_18" title="打开新窗口" href="/read.php?tid=17644177" target="_blank" class="replies">11</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644177" id="t_tt1_18" class="topic">[讨论] 问下，腰椎间盘突出是不是只有手术能治啊？那为什么医生说我吃药就行不是很严重？</a>
+				<span id="t_pc1_18"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=35248837" class="author" id="t_ta1_18" title="用户ID 35248837">不辞而别凛凛鸦</a><span class="silver postdate" id="t_pt1_18">1561017952</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644177&amp;page=e" class="silver replydate" id="t_rt1_18"/><span class="replyer" id="t_tr1_18">yidiantaotao</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_18','t_tt1_18','t_ta1_18','t_pt1_18',
+'t_tr1_18','t_rt1_18','t_pc1_18',
+'-7',17644177,'','','0',1561017952,1561018988,11,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_19" title="打开新窗口" href="/read.php?tid=17643798" target="_blank" class="replies">38</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643798" id="t_tt1_19" class="topic">如果独生儿子把自己父亲给阉了会怎样？</a>
+				<span id="t_pc1_19"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=1627812" class="author" id="t_ta1_19" title="用户ID 1627812">花樣蝴蝶</a><span class="silver postdate" id="t_pt1_19">1561015657</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643798&amp;page=e" class="silver replydate" id="t_rt1_19"/><span class="replyer" id="t_tr1_19">控制不住这双手</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_19','t_tt1_19','t_ta1_19','t_pt1_19',
+'t_tr1_19','t_rt1_19','t_pc1_19',
+'-7',17643798,'','','0',1561015657,1561018988,38,
+548,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_20" title="打开新窗口" href="/read.php?tid=17643880" target="_blank" class="replies">12</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643880" id="t_tt1_20" class="topic">血污迷路，已经瞎逛两小时了</a>
+				<span id="t_pc1_20"/><span class="titleadd2"><a href="/thread.php?fid=414" class="silver">[游戏综合讨论]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=6971279" class="author" id="t_ta1_20" title="用户ID 6971279">chenxy725</a><span class="silver postdate" id="t_pt1_20">1561016178</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643880&amp;page=e" class="silver replydate" id="t_rt1_20"/><span class="replyer" id="t_tr1_20">chenxy725</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_20','t_tt1_20','t_ta1_20','t_pt1_20',
+'t_tr1_20','t_rt1_20','t_pc1_20',
+'414',17643880,'','','0',1561016178,1561018987,12,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_21" title="打开新窗口" href="/read.php?tid=17640923" target="_blank" class="replies">4</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17640923" id="t_tt1_21" class="topic">新概念英语网上能下载到资源吗？</a>
+				<span id="t_pc1_21"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=35239683" class="author" id="t_ta1_21" title="用户ID 35239683">allahuakbar</a><span class="silver postdate" id="t_pt1_21">1560999222</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17640923&amp;page=e" class="silver replydate" id="t_rt1_21"/><span class="replyer" id="t_tr1_21">找个大胸很重要</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_21','t_tt1_21','t_ta1_21','t_pt1_21',
+'t_tr1_21','t_rt1_21','t_pc1_21',
+'-7',17640923,'','','0',1560999222,1561018986,4,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_22" title="打开新窗口" href="/read.php?tid=17644173" target="_blank" class="replies">15</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644173" id="t_tt1_22" class="topic">清仓库竟然清出来这两台东西，找了淘宝没地方修</a>
+				<span id="t_pc1_22"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=42713263" class="author" id="t_ta1_22" title="用户ID 42713263">翱翔的肥皂泡</a><span class="silver postdate" id="t_pt1_22">1561017912</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644173&amp;page=e" class="silver replydate" id="t_rt1_22"/><span class="replyer" id="t_tr1_22">MrGeann</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_22','t_tt1_22','t_ta1_22','t_pt1_22',
+'t_tr1_22','t_rt1_22','t_pc1_22',
+'-7',17644173,'','','0',1561017912,1561018985,15,
+8704,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_23" title="打开新窗口" href="/read.php?tid=17643178" target="_blank" class="replies">111</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643178" id="t_tt1_23" class="topic">看来还有很多人对垃圾分类“不方便”有很大的误解，事实上垃圾分类本身就是一件很“不方便”的事情，上海在这件事上走在了全国前列。</a>
+				<span id="t_pc1_23"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60308918" class="author" id="t_ta1_23" title="用户ID 60308918">小猪佩奇与乔治</a><span class="silver postdate" id="t_pt1_23">1561011879</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643178&amp;page=e" class="silver replydate" id="t_rt1_23"/><span class="replyer" id="t_tr1_23">wudiamai</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_23','t_tt1_23','t_ta1_23','t_pt1_23',
+'t_tr1_23','t_rt1_23','t_pc1_23',
+'-7',17643178,'','','0',1561011879,1561018985,111,
+8708,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_24" title="打开新窗口" href="/read.php?tid=17642996" target="_blank" class="replies">16</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17642996" id="t_tt1_24" class="topic">手持mate20pro想换一加7pro</a>
+				<span id="t_pc1_24"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=42758954" class="author" id="t_ta1_24" title="用户ID 42758954">全世界最可爱的7酱</a><span class="silver postdate" id="t_pt1_24">1561010922</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17642996&amp;page=e" class="silver replydate" id="t_rt1_24"/><span class="replyer" id="t_tr1_24">星丨空</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_24','t_tt1_24','t_ta1_24','t_pt1_24',
+'t_tr1_24','t_rt1_24','t_pc1_24',
+'436',17642996,'','','0',1561010922,1561018984,16,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_25" title="打开新窗口" href="/read.php?tid=17644142" target="_blank" class="replies">23</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644142" id="t_tt1_25" class="topic">一个想过普通人生活的超能力者得具备什么层次的实力才能让世界各国容许其存在？</a>
+				<span id="t_pc1_25"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=12698853" class="author" id="t_ta1_25" title="用户ID 12698853">控蓝老祖</a><span class="silver postdate" id="t_pt1_25">1561017768</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644142&amp;page=e" class="silver replydate" id="t_rt1_25"/><span class="replyer" id="t_tr1_25">凶猛野兽百科</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_25','t_tt1_25','t_ta1_25','t_pt1_25',
+'t_tr1_25','t_rt1_25','t_pc1_25',
+'-7',17644142,'','','0',1561017768,1561018984,23,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_26" title="打开新窗口" href="/read.php?tid=17644318" target="_blank" class="replies">6</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644318" id="t_tt1_26" class="topic">[讨论] 我寻思有些人自己做人都还没做明白，哪来的勇气教别人做人呢？(某些“精英”们)</a>
+				<span id="t_pc1_26"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60431909" class="author" id="t_ta1_26" title="用户ID 60431909">井航</a><span class="silver postdate" id="t_pt1_26">1561018699</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644318&amp;page=e" class="silver replydate" id="t_rt1_26"/><span class="replyer" id="t_tr1_26">尼古拉斯小胖</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_26','t_tt1_26','t_ta1_26','t_pt1_26',
+'t_tr1_26','t_rt1_26','t_pc1_26',
+'-7',17644318,'','','0',1561018699,1561018983,6,
+544,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_27" title="打开新窗口" href="/read.php?tid=17644145" target="_blank" class="replies">12</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644145" id="t_tt1_27" class="topic">现在狗东快递怎么了？</a>
+				<span id="t_pc1_27"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=41614425" class="author" id="t_ta1_27" title="用户ID 41614425">氼水寒</a><span class="silver postdate" id="t_pt1_27">1561017784</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644145&amp;page=e" class="silver replydate" id="t_rt1_27"/><span class="replyer" id="t_tr1_27">别打我 自己人</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_27','t_tt1_27','t_ta1_27','t_pt1_27',
+'t_tr1_27','t_rt1_27','t_pc1_27',
+'-7',17644145,'','','0',1561017784,1561018982,12,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_28" title="打开新窗口" href="/read.php?tid=17644371" target="_blank" class="replies">0</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644371" id="t_tt1_28" class="topic">改洋名有什么不好的？</a>
+				<span id="t_pc1_28"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=311047" class="author" id="t_ta1_28" title="用户ID 311047">11186tc</a><span class="silver postdate" id="t_pt1_28">1561018981</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644371&amp;page=e" class="silver replydate" id="t_rt1_28"/><span class="replyer" id="t_tr1_28">11186tc</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_28','t_tt1_28','t_ta1_28','t_pt1_28',
+'t_tr1_28','t_rt1_28','t_pc1_28',
+'-7',17644371,'','','0',1561018981,1561018981,0,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_29" title="打开新窗口" href="/read.php?tid=17644122" target="_blank" class="replies">40</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644122" id="t_tt1_29" class="topic">如果你是阿尔萨斯或者乌瑟尔 你会对斯坦索姆怎么处理</a>
+				<span id="t_pc1_29"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=33443863" class="author" id="t_ta1_29" title="用户ID 33443863">sidlooo</a><span class="silver postdate" id="t_pt1_29">1561017668</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644122&amp;page=e" class="silver replydate" id="t_rt1_29"/><span class="replyer" id="t_tr1_29">流云渡</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_29','t_tt1_29','t_ta1_29','t_pt1_29',
+'t_tr1_29','t_rt1_29','t_pc1_29',
+'-7',17644122,'','','0',1561017668,1561018981,40,
+516,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_30" title="打开新窗口" href="/read.php?tid=17643733" target="_blank" class="replies">27</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17643733" id="t_tt1_30" class="topic">梅西已经拿不到美洲杯了</a>
+				<span id="t_pc1_30"/><span class="titleadd2"><a href="/thread.php?fid=-81981" class="silver">[生命之杯]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=1935375" class="author" id="t_ta1_30" title="用户ID 1935375">老克在此</a><span class="silver postdate" id="t_pt1_30">1561015240</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17643733&amp;page=e" class="silver replydate" id="t_rt1_30"/><span class="replyer" id="t_tr1_30">Templerose</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_30','t_tt1_30','t_ta1_30','t_pt1_30',
+'t_tr1_30','t_rt1_30','t_pc1_30',
+'-81981',17643733,'','','0',1561015240,1561018981,27,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_31" title="打开新窗口" href="/read.php?tid=17644195" target="_blank" class="replies">50</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644195" id="t_tt1_31" class="topic">[水一帖] 浙江4闺蜜因抢着买单引发冲突 一人情绪失控跳水溺亡</a>
+				<span id="t_pc1_31"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=13416174" class="author" id="t_ta1_31" title="用户ID 13416174">斯卡蒂</a><span class="silver postdate" id="t_pt1_31">1561018026</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644195&amp;page=e" class="silver replydate" id="t_rt1_31"/><span class="replyer" id="t_tr1_31">抿嘴一笑</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_31','t_tt1_31','t_ta1_31','t_pt1_31',
+'t_tr1_31','t_rt1_31','t_pc1_31',
+'-7',17644195,'','','0',1561018026,1561018979,50,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_32" title="打开新窗口" href="/read.php?tid=17576878" target="_blank" class="replies">719</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17576878" id="t_tt1_32" class="topic">和女朋友分手了，求一个618飞机杯的车 (30页光推荐飞机杯，没人介绍女朋友的吗？)</a>
+				<span id="t_pc1_32"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=60399470" class="author" id="t_ta1_32" title="用户ID 60399470">特朗普帅哥</a><span class="silver postdate" id="t_pt1_32">1560488907</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17576878&amp;page=e" class="silver replydate" id="t_rt1_32"/><span class="replyer" id="t_tr1_32">傻仔猫猫</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_32','t_tt1_32','t_ta1_32','t_pt1_32',
+'t_tr1_32','t_rt1_32','t_pc1_32',
+'436',17576878,'','','0',1560488907,1561018977,719,
+516,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_33" title="打开新窗口" href="/read.php?tid=17644344" target="_blank" class="replies">2</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644344" id="t_tt1_33" class="topic">华硕卡皇ROG-MATRIX-RTX2080TI-P11G-GAMING上架，29999元</a>
+				<span id="t_pc1_33"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=41285991" class="author" id="t_ta1_33" title="用户ID 41285991">Wisp1026</a><span class="silver postdate" id="t_pt1_33">1561018837</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644344&amp;page=e" class="silver replydate" id="t_rt1_33"/><span class="replyer" id="t_tr1_33">酷酷眼神</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_33','t_tt1_33','t_ta1_33','t_pt1_33',
+'t_tr1_33','t_rt1_33','t_pc1_33',
+'436',17644344,'','','0',1561018837,1561018976,2,
+8704,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_34" title="打开新窗口" href="/read.php?tid=17644223" target="_blank" class="replies">9</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17644223" id="t_tt1_34" class="topic">看了那个买鞋攀比贴 觉得泥潭老哥有点问题</a>
+				<span id="t_pc1_34"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=43318394" class="author" id="t_ta1_34" title="用户ID 43318394">Ablaze1998</a><span class="silver postdate" id="t_pt1_34">1561018128</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17644223&amp;page=e" class="silver replydate" id="t_rt1_34"/><span class="replyer" id="t_tr1_34">Ablaze1998</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_34','t_tt1_34','t_ta1_34','t_pt1_34',
+'t_tr1_34','t_rt1_34','t_pc1_34',
+'-7',17644223,'','','0',1561018128,1561018976,9,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_35" title="打开新窗口" href="/read.php?tid=17642951" target="_blank" class="replies">61</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17642951" id="t_tt1_35" class="topic">大学毕业放弃从医 90后夫妻直播卖油条年入30万</a>
+				<span id="t_pc1_35"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=42868393" class="author" id="t_ta1_35" title="用户ID 42868393">yy8407</a><span class="silver postdate" id="t_pt1_35">1561010671</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17642951&amp;page=e" class="silver replydate" id="t_rt1_35"/><span class="replyer" id="t_tr1_35">风清名扬</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_35','t_tt1_35','t_ta1_35','t_pt1_35',
+'t_tr1_35','t_rt1_35','t_pc1_35',
+'-7',17642951,'','','0',1561010671,1561018975,61,
+512,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_36" title="打开新窗口" href="/read.php?tid=17620341" target="_blank" class="replies">86</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17620341" id="t_tt1_36" class="topic">[百度搜索受害案例] GTMD百度！！！记一次不愉快的售后维修经历(华硕玩家国度)</a>
+				<span id="t_pc1_36"/><span class="titleadd2"><a href="/thread.php?fid=436" class="silver">[消费电子 IT新闻]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=17411341" class="author" id="t_ta1_36" title="用户ID 17411341">ipxjeep</a><span class="silver postdate" id="t_pt1_36">1560836120</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17620341&amp;page=e" class="silver replydate" id="t_rt1_36"/><span class="replyer" id="t_tr1_36">晓迷离二号机</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_36','t_tt1_36','t_ta1_36','t_pt1_36',
+'t_tr1_36','t_rt1_36','t_pc1_36',
+'436',17620341,'','','0',1560836120,1561016325,86,
+8772,'AQAAACA','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_37" title="打开新窗口" href="/read.php?tid=17599798" target="_blank" class="replies">7</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17599798" id="t_tt1_37" class="topic">[原创] [游戏评测] 《激战花园：黄金收割》评测：反乌托邦式未来下的生存游戏</a>
+				<span id="t_pc1_37"/><span class="titleadd2"><a href="/thread.php?fid=414" class="silver">[游戏综合讨论]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=19483820" class="author" id="t_ta1_37" title="用户ID 19483820">干掉昨天</a><span class="silver postdate" id="t_pt1_37">1560669934</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17599798&amp;page=e" class="silver replydate" id="t_rt1_37"/><span class="replyer" id="t_tr1_37">凤舞天翔123</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_37','t_tt1_37','t_ta1_37','t_pt1_37',
+'t_tr1_37','t_rt1_37','t_pc1_37',
+'414',17599798,'','','0',1560669934,1560782189,7,
+8704,'AQAAAAI','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_38" title="打开新窗口" href="javascript:void(0)" target="_blank" class="replies">0</a></td>
+			<td class="c2">
+				<a href="javascript:void(0)" id="t_tt1_38" class="topic"><span class="silver b">主题发布或回复时间超过限制</span></a>
+				<span id="t_pc1_38"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=0" class="author" id="t_ta1_38" title="用户ID 0"/><span class="silver postdate" id="t_pt1_38">0</span>
+			</td>
+			<td class="c4">
+				<a href="javascript:void(0)&amp;page=e" class="silver replydate" id="t_rt1_38"/><span class="replyer" id="t_tr1_38"/>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_38','t_tt1_38','t_ta1_38','t_pt1_38',
+'t_tr1_38','t_rt1_38','t_pc1_38',
+'-7',17607022,'','','17606996',0,0,0,
+512,'AQAAACE','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row2 topicrow">
+			<td class="c1"><a id="t_rc1_39" title="打开新窗口" href="/read.php?tid=17587509" target="_blank" class="replies">96</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17587509" id="t_tt1_39" class="topic">福克斯ST-Line提车作业！</a>
+				<span id="t_pc1_39"/><span class="titleadd2"><a href="/thread.php?fid=-343809" class="silver">[汽车俱乐部]</a></span>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=42264944" class="author" id="t_ta1_39" title="用户ID 42264944">我魂淡</a><span class="silver postdate" id="t_pt1_39">1560572634</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17587509&amp;page=e" class="silver replydate" id="t_rt1_39"/><span class="replyer" id="t_tr1_39">野人山来客</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_39','t_tt1_39','t_ta1_39','t_pt1_39',
+'t_tr1_39','t_rt1_39','t_pc1_39',
+'-343809',17587509,'','','0',1560572634,1561012224,96,
+8708,'','',
+null,'',null
+)</script>
+	<tbody>
+		<tr class="row1 topicrow">
+			<td class="c1"><a id="t_rc1_40" title="打开新窗口" href="/read.php?tid=17629921" target="_blank" class="replies">253</a></td>
+			<td class="c2">
+				<a href="/read.php?tid=17629921" id="t_tt1_40" class="topic">[陶拉里亚西境学院][M20预览][NGA独家] 万智牌新卡预览：舞空沐燕灵 回复参与讨论抽取鹏洛客套牌！</a>
+				<span id="t_pc1_40"/>
+				
+			</td>
+			<td class="c3">
+				<a href="/nuke.php?func=ucp&amp;uid=21175563" class="author" id="t_ta1_40" title="用户ID 21175563">prsprite</a><span class="silver postdate" id="t_pt1_40">1560912153</span>
+			</td>
+			<td class="c4">
+				<a href="/read.php?tid=17629921&amp;page=e" class="silver replydate" id="t_rt1_40"/><span class="replyer" id="t_tr1_40">乱世水电工</span>
+			</td>
+		</tr>
+	</tbody><script type="text/javascript">
+commonui.topicArg.add(
+'t_rc1_40','t_tt1_40','t_ta1_40','t_pt1_40',
+'t_tr1_40','t_rt1_40','t_pc1_40',
+'-7',17630547,'','','17629921',1560912153,1561017491,253,
+0,'AQAAACE','',
+null,'',null
+)</script>
+	<!--topiclistend-->
+</table><script type="text/javascript">//topicloadallstart
+commonui.topicArg.loadAll()
+//topicloadallend
+</script>
+</div>
+</div>
+
+<div id="m_pbtnbtm" class="module_wrap"><div class="w100"><div class="right_"><a name="forumBtnScript" href="/post.php?fid=-7" onclick="if(window.postfunc &amp;&amp; postfunc.addForumSelect)return postfunc.addForumSelect(event)" id="forumBtnScript">发表新贴</a><script type="text/javascript">commonui.forumBtns.load(document.getElementsByName('forumBtnScript')[0].parentNode,1,__CURRENT_FID)</script></div><div class="left" id="pagebbtm" name="pageball"><a href="/thread.php?fid=-7&amp;page=2" title="下一页" class="pager_spacer">下一页(2)</a><span name="pageBtnScript" class="x"/><script>var __PAGE = {0:'/thread.php?fid=-7',1:111073,2:1,3:20};commonui.pageBtn(document.getElementsByName('pageBtnScript')[0].parentNode,__PAGE,true)</script></div><div class="clear"/>
+<script type="text/javascript">
+var tmp = $('pagebbtm').previousSibling
+if(tmp){commonui.forumBtns.load(tmp,1,__CURRENT_FID)
+commonui.pageBtnAdjHeight(tmp.parentNode,tmp)}
+</script>
+</div></div>
+
+<div id="m_fopts" class="module_wrap"><div class="w100"><div class="silver module_wrap_sub">本版面为用户版面，由用户自行管理，论坛管理员认为讨论内容不适合的版面可能会被关闭</div></div></div>
+
+<div id="b_nav" class="module_wrap">
+<div class="nav"><a href="/" class="nav_root">NGA玩家社区</a><span class="nav_spr">»</span><h1><a href="/thread.php?fid=-7" class="nav_link" data-fb="8360">网事杂谈</a></h1><div class="clear"/></div><span id="more_sub_forums_c"/>
+</div>
+
+<span id="fast_post_c"/><span/>
+<script type="text/javascript">
+commonui.advNav($('b_nav'))
+if(commonui.selectForum.genMoreSub &amp;amp;amp;amp;amp;amp;amp;amp;&amp;amp;amp;amp;amp;amp;amp;amp; (tmp = commonui.selectForum.genMoreSub()))$('more_sub_forums_c').appendChild(tmp)
+ngaAds.bbs_ads14_gen()
+if(commonui.fastPostUi)commonui.fastPostUi(-7)
+</script>
+
+
+<br class="clear"/>
+<br/>
+<br/>
+
+<div id="footer" class="cpinfo"><div class="xtxt silver">商务市场合作：BD@donews.com 内容合作：wangchuang@donews.com QQ：972310705<br/>京ICP备16021487 京公网安备11010802027588号
+<a key="5652d13cefbfb049451503f9" logo_size="32x12" logo_type="" href="http://www.anquan.org" style="display:none"><script>document.write('&amp;amp;amp;amp;amp;amp;amp;lt;scr'+'ipt src="'+location.protocol+'//static.anquan.org/static/outer/js/aq_auth.js" type="text/javasc'+'ript"&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/scr'+'ipt&amp;amp;amp;amp;amp;amp;amp;gt;')</script></a>
+ <span style="display:inline-block;vertical-align:middle;"><script>document.write('&amp;amp;amp;amp;amp;amp;amp;lt;scr'+'ipt src="'+location.protocol+'//kxlogo.knet.cn/seallogo.dll?sn=e18122811010876513vpap000000&amp;amp;amp;amp;amp;amp;amp;amp;size=1" type="text/javasc'+'ript"&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/scr'+'ipt&amp;amp;amp;amp;amp;amp;amp;gt;')</script></span>
+</div>
+<br/>
 </div>
 
 </div>
-<a title="继续访问艾泽拉斯国家地理" href="javascript:getJump()" onclick="getJump()" id="jump1" style="visibility: hidden">点此跳过广告</a>
-
-</center>
-
-
-</body></html>
+</div>
+<script>
+add_pv_count()
+if(commonui.loadUserScript)
+	commonui.loadUserScript()
+commonui.triggerEventDOMContentLoadedAct()
+</script>
+<script>
+;(function(){
+var x = [-7,1256638820, -343809,1256638828, 436,1256638851, 7,1256638858, -152678,1256638869, 422,1256638874, 431,1256638887, 321,1256638903, 318,1256638915, 414,1256638919, -81981,1256638924, -7202235,1256638935, -447601,1256638943, 0,30043604, 0,30039253, 459, 1259004010, 538,1261107569, 540,1261107574,564,1262314542, 516,1262314555,568,1264400273,581,1264400273],y=window.__CURRENT_FID?__CURRENT_FID:'n'
+for(var i=0;i&amp;amp;amp;amp;amp;amp;amp;lt;x.length;i+=2)
+	if(x[i]==0 || y==x[i])
+		loader.script(location.protocol+'//w.cnzz.com/c.php?id='+x[i+1])
+})();
+var _hmt = _hmt || [];
+(function() {
+  var h = document.createElement('script');
+  h.src = 'https://hm.baidu.com/hm.js?5adc78329e14807f050ce131992ae69b';
+  document.body.appendChild(h,document.body.lastChild)
+})();
+var app_key = 'uvhyzh0cudcn0o39';
+__SCRIPTS.load('stat')
+</script>
+</body>
+</html>
