@@ -30,7 +30,7 @@ class Downloader(object):
 
         header = { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
         ip_random, proxies = self.get_proxies(-1)
-        r = requests.get(url, cookies=cookie, headers=header, proxies=proxies, timeout=5)
+        r = requests.get(url, cookies=cookie, headers=header, proxies=proxies, timeout=20)
         r.encoding = 'gbk'
         source = r.text
 

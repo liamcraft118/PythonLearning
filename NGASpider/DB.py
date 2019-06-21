@@ -15,17 +15,12 @@ class DB(object):
                                           charset='utf8')
 
     def insert(self, topic):
-        values = (topic.title,
-                  topic.url,
-                  topic.create_time,
-                  topic.reply_time,
-                  topic.reply)
         cursor = self.connection.cursor()
         insert = ''' INSERT INTO topic
-        (title, url, create_time, reply_time, reply)
+        (title, author_name, author_id, replyer, reply_count, create_time)
         VALUES
-        (%s, %s, %s, %s, %s)'''
-        cursor.execute(insert, values)
+        (%s, %s, %s, %s, %s, %s)'''
+        cursor.execute(insert, topic)
 
     def commit(self):
         self.connection.commit()
@@ -50,11 +45,12 @@ if __name__ == '__main__':
     sql = '''
     CREATE TABLE IF NOT EXISTS topic(
     topic_id INT AUTO_INCREMENT,
-    title VARCHAR(100),
-    url VARCHAR(100),
-    craete_time VARCHAR(100),
-    reply_time VARCHAR(100),
-    reply VARCHAR(100),
+    title VARCHAR(255),
+    author_name VARCHAR(255),
+    author_id VARCHAR(255),
+    replyer VARCHAR(255),
+    reply_count VARCHAR(255),
+    create_time VARCHAR(255),
     PRIMARY KEY(topic_id)
     )
     '''
