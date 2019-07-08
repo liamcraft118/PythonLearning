@@ -1,0 +1,3191 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+                                            	<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+    	<meta name="description" content="闲鱼.淘宝二手apple pencil交易平台为您提供二手apple pencil免费发布，二手apple pencil回收等二手apple pencil优质特价商品，同时提供担保交易，先行赔付，假一赔三，七天无理由退换货，让你全面安心购物。" />
+    	<meta name="keywords" content="二手apple pencil，闲鱼.淘宝二手apple pencil，闲鱼.淘宝二手apple pencil回收，二手apple pencil交易网" />
+    	<meta name="spm-id" content="2007.1000337"/>
+    	<title >二手apple pencil - 闲鱼.淘宝二手apple pencil回收交易 - 闲鱼.淘宝二手</title>
+		<script>window.g_config={appId:1007,toolbar:false};</script>
+		
+    
+<!-- start idle vmcommon assets 4.0-->
+<link rel="shortcut icon" type="image/x-icon" href="//www.taobao.com/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="//assets.alicdn.com/plugins/opensearch/provider.xml" title="淘宝购物" />
+<!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/tb/global/3.5.34/global-min.css">
+<!-- S GLOBAL CSS -->
+<link rel="stylesheet" href="//g.alicdn.com/mtb/app-idle-pc/1.7.10/??common/base-min.css,widget/header5/index-min.css,widget/footer5/index-min.css,pages/list/page/list-min.css">
+<!-- S GLOBAL JS -->
+<script src="//g.alicdn.com/??kissy/k/1.3.0/kissy-min.js,tb/global/3.5.34/global-min.js"></script>
+<!-- E GLOBAL JS -->
+<script src="//g.alicdn.com/mtb/app-idle-pc/1.7.10/common/??package-config-min.js,global-min.js"></script>
+
+<!-- end idle vmcommon assets 4.0-->
+
+    </head>
+    <body><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=&asid=AQAAAACV8CJd14oCagAAAACUUE7ik20KCw==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+		
+
+
+
+<!-- S GLOBAL HTML -->
+<div id="J_SiteNav" class="site-nav">
+  <div id="J_SiteNavBd" class="site-nav-bd">
+    <ul id="J_SiteNavBdL" class="site-nav-bd-l"></ul>
+    <ul id="J_SiteNavBdR" class="site-nav-bd-r"></ul>
+  </div>
+</div>
+<!-- E GLOBAL HTML -->
+
+<script>
+TB.Global.init();
+ABC.config({
+    pageName: 'list',
+    pub: '1.7.10',
+    path: '//g.alicdn.com/mtb/app-idle-pc/',
+    charset: 'utf-8'
+});
+SecondHand.current = 'list';
+</script>
+
+<div class="idle-header-wrap">
+  <div class="idle-header" id="J_IdleHeader">
+    <h1 class="idle-logo"><a href="http://2.taobao.com" target="_top"><img src="//img.alicdn.com/tps/i3/TB1ys1sHVXXXXcrXVXXL_ZfHFXX-208-46.png" alt="闲鱼" width="208" height="46" /></a></h1>
+
+    <div class="idle-nav">
+      <div class="idle-menu">
+        <ul>
+          <li class="m-home"><a href="//2.taobao.com/">首页</a></li>
+          <li class="m-app"><a href="//2.taobao.com/app/index">手机二手</a></li>
+          <li><a href="//www.taobao.com/markets/paimai/usedcar">二手车估价</a></li>
+          <li class="m-auction"><a href="//2.taobao.com/auction/list">降降降</a></li>
+        </ul>
+      </div>
+
+      <div class="idle-manage">
+        <span class="idle-manage-sp">|</span>
+        <ul>
+          <li><a class="pub-overlay-btn">发布闲置</a></li>
+          <li id="J_IdleLi" class="my-idle-li">
+            <a class="my-idle-link" id="J_IdleLink" href="//trade.2.taobao.com">我的闲置<i class="iconfont icon-down">&#xe601;</i><i class="iconfont icon-up">&#xe600;</i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!--<div class="idle-search">-->
+    <!--  <form method="get" action="//s.2.taobao.com/list/list.htm" name="search" target="_top">-->
+    <!--    <input class="input-search" id="J_HeaderSearchQuery" name="q" type="text" value="" placeholder="搜闲鱼" />-->
+    <!--    <input type="hidden" name="search_type" value="item" autocomplete="off" />-->
+    <!--    <input type="hidden" name="app" value="shopsearch" autocomplete="off" />-->
+    <!--    <button class="btn-search" type="submit"><i class="iconfont">&#xe602;</i><span class="search-img"></span></button>-->
+    <!--  </form>-->
+    <!--</div>-->
+  </div>
+</div>
+
+<script>
+KISSY.use('widget/header5/index');
+</script>
+
+
+        <div id="page">
+        	<div id="content">
+        				
+    	
+		
+		
+		
+		        			<div class="crumbs-container">
+    <div class="crumbs">
+        <em class="crumbs-title">个人闲置：</em>
+					全部(<em class="cur-num">8502</em>)
+		    </div>
+                        	
+</div>			
+<div class="category-filter-container sh-roundbox">
+    <div class="category-filter-wrapper clearfix">
+        <div id="J_CategoryFilters" class="category-filters">
+			    			    				 <div class="category-subs">
+    					        						<dl class="category-filter" data-spm="2007.1000337.2">
+        							 <dt class="category-name"> <span class="comma"> </span></dt>
+                                    <dd class="J_HiddenArea">
+                                        <ul class="J_HiddenAreaContent sub-category-list clearfix">
+                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57544002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">3C数码</em>
+                                                    <span class="sub-category-item-num">(<span class="number">6163</span>)</span>
+                                                </a>
+                                            </li>
+    						                                                                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100398&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">手机</em>
+                                                    <span class="sub-category-item-num">(<span class="number">5594</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57540002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">移动电话</em>
+                                                    <span class="sub-category-item-num">(<span class="number">69</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57518003&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">电子零件</em>
+                                                    <span class="sub-category-item-num">(<span class="number">63</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100416&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">其它闲置</em>
+                                                    <span class="sub-category-item-num">(<span class="number">53</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57512003&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">网络设备</em>
+                                                    <span class="sub-category-item-num">(<span class="number">43</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100412&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">音像/文体用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">38</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100402&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">电脑/电脑配件</em>
+                                                    <span class="sub-category-item-num">(<span class="number">35</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57512004&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">办公用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">34</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57536002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">话题/帖子</em>
+                                                    <span class="sub-category-item-num">(<span class="number">25</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50448012&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">鞋包配饰</em>
+                                                    <span class="sub-category-item-num">(<span class="number">23</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100406&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">家居/日用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">17</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57492003&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">个护美妆</em>
+                                                    <span class="sub-category-item-num">(<span class="number">17</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100405&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">美容/美颜/香水</em>
+                                                    <span class="sub-category-item-num">(<span class="number">16</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57518005&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">箱包</em>
+                                                    <span class="sub-category-item-num">(<span class="number">14</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57538002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">居家日用</em>
+                                                    <span class="sub-category-item-num">(<span class="number">13</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100414&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">珠宝/黄金/手表</em>
+                                                    <span class="sub-category-item-num">(<span class="number">11</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57534002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">钟表眼镜</em>
+                                                    <span class="sub-category-item-num">(<span class="number">8</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57530002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">家用电器</em>
+                                                    <span class="sub-category-item-num">(<span class="number">7</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57548002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">女士服装</em>
+                                                    <span class="sub-category-item-num">(<span class="number">7</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100408&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">家用电器/影音设备</em>
+                                                    <span class="sub-category-item-num">(<span class="number">7</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50446013&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">女装</em>
+                                                    <span class="sub-category-item-num">(<span class="number">6</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57544001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">生鲜水果</em>
+                                                    <span class="sub-category-item-num">(<span class="number">5</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57562001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">游戏设备</em>
+                                                    <span class="sub-category-item-num">(<span class="number">4</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57536001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">五金工具</em>
+                                                    <span class="sub-category-item-num">(<span class="number">4</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57532002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">服饰配件</em>
+                                                    <span class="sub-category-item-num">(<span class="number">3</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57546002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">家具</em>
+                                                    <span class="sub-category-item-num">(<span class="number">3</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57558001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">工艺礼品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100410&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">宠物/宠物用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100403&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">数码3C产品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57524002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">男士鞋靴</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57550001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">家装/建材</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57562002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">珠宝首饰</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57542001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">动漫/周边</em>
+                                                    <span class="sub-category-item-num">(<span class="number">2</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100415&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">艺术品/收藏品/古董古玩</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50504001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">奢侈名品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57548003&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">摩托车/用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57520002&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">电动车/用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57554001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">玩具乐器</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57548001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">宠物/用品</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57540001&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">农用物资</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=57518004&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">运动户外</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100409&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">母婴/儿童用品/玩具</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								                                            <li class="clearfix">
+                                                <a class="sub-category" href="//s.2.taobao.com/list/list.htm?catid=50100413&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0">
+                                                    <em class="sub-category-name">汽摩/电动车/自行车</em>
+                                                    <span class="sub-category-item-num">(<span class="number">1</span>)</span>
+                                                </a>
+                                            </li>
+        								        					                                                </ul>
+        								        									 <a class="toggle-more more-link J_ToggleMore" href="#">更多<b></b></a>
+        								                                    </dd>
+        						</dl>
+    					                    </div>
+    						        </div>
+        <!--[if lte IE 8]>
+        <div class="rb-topleft"></div>
+        <div class="rb-topright"></div>
+        <div class="rb-bottomleft"></div>
+        <div class="rb-bottomright"></div>
+        <![endif]-->
+    </div>
+</div>	
+
+
+<div class="search-filters-container clearfix">
+    <h3 class="search-keywords">apple pencil</h3>
+    <div class="search-filters-bar">
+        <form action="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=11&amp;q=apple+pencil&amp;ist=0" method="get" enctype="application/x-www-form-urlencoded">
+            <div class="search-filters-block click-filters" data-spm="2007.1000337.6">
+                <a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;q=apple+pencil&amp;ist=0" class="filter-default filter-selected">帮你淘</a>
+                <a href="//s.2.taobao.com/list/list.htm?st_edtime=1&amp;q=apple+pencil&amp;ist=0" class="filter-time ">最新发布<span class="arrow"></span></a>
+									<a href="//s.2.taobao.com/list/list.htm?st_price=0&amp;q=apple+pencil&amp;ist=0" class="filter-price" title="点击按价格从低到高排序">价格<span class="arrow-up"></span><span class="arrow-down"></span></a>
+				            </div>
+            <div class="search-filters-block price-filters" data-spm="2007.1000337.7">
+                <div class="price-filters-wrapper">
+                    <p>
+                        <input id="J_FilterStartPrice" type="text" value="" class="input-txt" name="start" title="按价格区间筛选 最低价" />
+                        <span>-</span>
+                        <input id="J_FilterEndPrice" type="text" value="" class="input-txt" name="end" title="按价格区间筛选 最高价" />
+                    </p>
+                    <div class="submit-wrapper">
+                        <span class="btn-submit">
+                            <button type="submit">确定</button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+			
+			                <div id="J_SearchFilterCheckboxes" class="search-filters-block checkbox-filters clearfix">
+                    <div class="search-checkbox-filter">
+                        <input id="J_CheckBoxMobilePic" class="checkbox-filter J_SearchFilterCheckbox" type="checkbox" name="itemfrom" value="1"  />
+                        <label for="J_CheckBoxMobilePic" class="checkbox-filter-label">手机实拍</label>
+                    </div>
+                    <div class="search-checkbox-filter">
+                        <input id="J_CheckBoxBrandNew" class="checkbox-filter J_SearchFilterCheckbox" type="checkbox" name="oon" value="10"  />
+                        <label for="J_CheckBoxBrandNew" class="checkbox-filter-label">全新转卖</label>
+                    </div>
+                </div>
+                <div class="search-filters-block popup-filters clearfix">
+                    <div class="search-filters-trigger filter-new" href="#">
+                        <span class="search-filters-result">
+    						    							新旧程度
+    						    					</span>
+                        <b></b>
+                        <div class="search-filters-popup" data-spm="2007.1000337.8">
+                            <ul>
+                                <li>
+                                    <a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;q=apple+pencil&amp;ist=0" class="popup-option">不限</a>
+                                </li>
+                                <li>
+                                    <a href="//s.2.taobao.com/list/list.htm?oon=10&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0" class="popup-option">全新</a>
+                                </li>
+                                <li>
+                                    <a href="//s.2.taobao.com/list/list.htm?oon=9&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0" class="popup-option">9成新以上</a>
+                                </li>
+                                <li>
+                                    <a href="//s.2.taobao.com/list/list.htm?oon=8&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0" class="popup-option">8成新以上</a>
+                                </li>
+                                <li>
+                                    <a href="//s.2.taobao.com/list/list.htm?oon=7&amp;st_trust=1&amp;q=apple+pencil&amp;ist=0" class="popup-option">8成新或以下</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                <div id="J_SearchFiltersTriggerOther" class="search-filters-trigger filter-other" href="#">
+                    <span class="search-filters-result">其它</span>
+                    <b></b>
+                    <div class="search-filters-popup" data-spm="2007.1000337.9">
+                        <ul>
+                            <li>
+                                <input id="J_CkbHasPic" class="popup-checkbox" type="checkbox" name="bf" value="1"  />
+                                <label for="J_CkbHasPic">接受讲价</label>
+                            </li>
+							<!-- 
+                            <li>
+                                <input id="J_CkbWangWangOnline" class="popup-checkbox" type="checkbox" name="wwonline" value="1"  />
+                                <label for="J_CkbWangWangOnline">旺旺在线</label>
+                            </li>
+							-->
+                            <li>
+                                <input id="J_CkbHasMobile" class="popup-checkbox" type="checkbox" name="hasp" value="1" />
+                                <label for="J_CkbHasMobile">有联系方式</label>
+                            </li>
+                            <li>
+                                <input id="J_CkbOnlinePay" class="popup-checkbox" type="checkbox" name="tradetype" value="3" />
+                                <label for="J_CkbOnlinePay">支持在线交易</label>
+                            </li>
+                        </ul>
+                        <div class="submit-wrapper">
+                            <span class="btn-submit">
+                                <button type="submit">确定</button>
+                            </span>
+						</div>
+					</div>
+				</div>	
+									<div class="hidden">
+                                                                                            		                                            		                                                            <input type="hidden" name="cpp" value="true"/>
+                                            		                                                            <input type="hidden" name="st_trust" value="1"/>
+                                            		                                            		                                            		                                                            <input type="hidden" name="ist" value="0"/>
+                                            		                                            		                                            		                                            		                                                            <input type="hidden" name="userId" value="0"/>
+                                            		                    </div>
+                </div>	
+			            <div class="search-filters-block search-filters">
+                <label for="J_SearchFilterInput">搜索</label>
+                <div class="search-input-wrapper">
+                    <input id="J_SearchFilterInput" type="text" name="q" value="apple pencil" />
+                </div>
+                <button type="submit">确定</button>
+            </div>
+            <div class="search-filters-block toggle-style cur-style-list">
+                <a class="toggle-style-btn style-list" href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;q=apple+pencil&amp;ist=0" title="点击切换到列表模式">列表模式</a>
+				                <a class="toggle-style-btn style-waterfall" href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;q=apple+pencil&amp;ist=1" title="点击切换到大图模式">大图模式</a>
+				            </div>
+        </form>
+    </div>
+</div>			    		<div id="J_ItemListsContainer" class="item-lists-container item-lists-style-list J_StyleList clearfix sh-roundbox ">
+
+    <div class="item-lists-leftbar">
+
+		
+			<div class="item-filters-container">
+    <div class="item-filters">
+        <dl class="item-location-filter">
+            <dt>地区选择</dt>
+            <dd>
+				            		            			<div class="all-city clearfix" data-spm="2007.1000337.10">
+                            <a id="J_ItemFilterCityPicker" href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;q=apple+pencil&amp;ist=0" class="whole-country J_CitySelectDialogTrigger"><span class="wrapper"><em>全国</em><b></b></span></a>
+                            <span class="item-num">(<em class="number">8502</em>)</span>
+                        </div>
+            						            </dd>
+        </dl>
+		
+        
+    </div>
+    <!--[if lte IE 8]>
+    <div class="rb-topleft"></div>
+    <div class="rb-topright"></div>
+    <div class="rb-bottomleft"></div>
+    <div class="rb-bottomright"></div>
+    <![endif]-->
+</div>
+		
+		
+    </div>
+
+    <ul class="item-lists">
+
+    	
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594157426367"><img alt="适用apple pencil一代苹果手写笔保护套送笔尖套" src="//img.alicdn.com/bao/uploaded/i4/O1CN01tqrStR1KO7BoNWku1_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=594157426367">适用apple pencil一代苹果手写笔保护套送笔尖套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>17.90</em></span></div>
+
+    					<div class="item-description">手工DIY立体卡通制作，适用applepencil一代苹果手写笔保护套，。另外送收纳笔盒，加4个笔尖套，书写更舒服，静音增加摩擦力！由于利润太低，不支持无理由退换货，除了破损及质量问题！请看好再拍！！！包邮地区不包括新疆，内蒙...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594157426367" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=594157426367" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594146364212"><img alt="第一代苹果apple pencil笔套保护套ipad手写笔" src="//img.alicdn.com/bao/uploaded/i3/O1CN01OQQdb21SlUKWZ0Hry_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=594146364212">第一代苹果apple pencil笔套保护套ipad手写笔</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>17.90</em></span></div>
+
+    					<div class="item-description">第一代专用，苹果applepencil笔套保护套硅胶防丢套ipad笔杆防滑笔握软胶套2018新款pro笔尖防摔配件！送支架！（不含笔）点击我想要私聊，告诉我要什么颜色，提供多颜色选择！由于利润太低，不支持无理由退换货，除了破损及...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594146364212" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=594146364212" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596805781463"><img alt="苹果apple pencil手写笔底座ipad笔防丢笔帽" src="//img.alicdn.com/bao/uploaded/i3/O1CN015HQobf1d3wSKHhACd_!!0-fleamarket.jpg_120x120"></a>
+
+    						
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=596805781463">苹果apple pencil手写笔底座ipad笔防丢笔帽</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>22.90</em></span></div>
+
+    					<div class="item-description">全新外贸尾单货！苹果applepencil手写笔底座ipadpro笔防丢笔帽ipencil全硅胶笔盖笔尖保护套2018新ipad笔充电器收纳支架！我们快递员是晚上统一来收货的，不用急哈/:^_^</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596805781463" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=596805781463" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=595312534799"><img alt="apple pencil 2代笔" src="//img.alicdn.com/bao/uploaded/i2/O1CN01bUCFtK1RoPF28mDHY_!!2-fleamarket.png_120x120"></a>
+
+    						
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=595312534799">apple pencil 2代笔</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>749.00</em></span></div>
+
+    					<div class="item-description">成色如图，定制刻了字，其他无区别。</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=595312534799" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=595312534799" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=xnote%B4%F3%C2%F4%B3%A1" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=xnote大卖场&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=xnote%B4%F3%C2%F4%B3%A1" class="seller-nick-name">xnote大...</a>
+
+    							<span class="J_WangWang" data-nick="xnote大卖场" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon2">vip2</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=xnote%B4%F3%C2%F4%B3%A1" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597272262020"><img alt="苹果手写笔、ipad手写笔、apple pencil高价回收" src="//img.alicdn.com/bao/uploaded/i4/O1CN012bCCP01TOsP3mDivD_!!0-fleamarket.jpg_120x120"></a>
+
+    						
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=597272262020">苹果手写笔、ipad手写笔、apple pencil高价回收</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>449.00</em></span></div>
+
+    					<div class="item-description">回收当做拍摄器材用，我们卖苹果笔配件保护套之类，需要苹果笔搭配来拍照，做产品图！苹果手写笔、ipad手写笔、applepencil高价回收回收环保笔、坏笔、僵尸笔，回收九成以上新的，外观良好的！</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597272262020" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=597272262020" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596868104394"><img alt="apple pencil电容笔ipad触控笔苹果安卓细头平板" src="//img.alicdn.com/bao/uploaded/i2/O1CN01jy8m2p1bqN6gMY7lH_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=596868104394">apple pencil电容笔ipad触控笔苹果安卓细头平板</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>90.00</em></span></div>
+
+    					<div class="item-description">全新的，因为我是一个三分钟热度的人，买的时候很果断，事后就后悔了。配件什么的都在，全新！就拿到手的那一天用了&hellip;后来就束之高阁&hellip;交流愉快的话，可以送软件哒</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596868104394" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=596868104394" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=%B1%AB%D5%D5%B5%C4%C3%C3%C3%C3" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=鲍照的妹妹&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=%B1%AB%D5%D5%B5%C4%C3%C3%C3%C3" class="seller-nick-name">鲍照的...</a>
+
+    							<span class="J_WangWang" data-nick="鲍照的妹妹" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">湖北武汉</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon0">vip0</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=%B1%AB%D5%D5%B5%C4%C3%C3%C3%C3" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597270986637"><img alt="Apple Pencil笔帽 带手写功能设计 能&amp;hellip;" src="//img.alicdn.com/bao/uploaded/i3/2095555328/TB2FyEwl0BopuFjSZPcXXc9EpXa_!!2095555328.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=597270986637">Apple Pencil笔帽 带手写功能设计 能&hellip;</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>29.90</em></span></div>
+
+    					<div class="item-description">换笔了，一代笔坏了，二代的也用不了，所以转手！全新的，一个的价格29包邮！两个的话49包邮。替换原装笔头，又可以当触摸笔用！</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597270986637" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=597270986637" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596342907671"><img alt="8个装包邮苹果笔笔尖套apple pencil笔尖套笔尖膜" src="//img.alicdn.com/bao/uploaded/i3/O1CN01mFVuAU26AvLZsmql0_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=596342907671">8个装包邮苹果笔笔尖套apple pencil笔尖套笔尖膜</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>17.89</em></span></div>
+
+    					<div class="item-description">有质量问题包退没质量问题不给予退货8个装，19.9元包邮，偏远地区内蒙古西藏新疆除外！可单色，可混色！一共6个颜色，大红，粉色，黑色，浅灰，薄荷绿，透明白！笔尖套笔套applepencil硅胶一代二代苹果pencil笔通用！笔尖...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596342907671" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=596342907671" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594728598379"><img alt="苹果apple pencil一代笔袋pencil1代笔套保护" src="//img.alicdn.com/bao/uploaded/i4/O1CN01hybuIO1fnrO6fZqdL_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=594728598379">苹果apple pencil一代笔袋pencil1代笔套保护</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">一手货源，深圳华强北电子市场工厂拿货，专门给学生党提供福利了！只求流量，不求赚钱！适用苹果applepencil1笔套一代防丢保护套！一手货源，工厂库存，比京东比某宝还便宜！拒绝暴利！便宜的价钱，一样的货，骗人是小狗！适用苹果a...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594728598379" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=594728598379" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594447318077"><img alt="适用第一代苹果apple pencil笔帽防丢笔套 充电线转" src="//img.alicdn.com/bao/uploaded/i4/O1CN01LRMQUZ1wlQkmkTnLn_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=594447318077">适用第一代苹果apple pencil笔帽防丢笔套 充电线转</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">一手货源，深圳华强北电子市场工厂拿货，专门给学生党提供福利了！只求流量，不求赚钱！适用第一代苹果applepencil笔帽防丢笔套充电线转接头防丢绳笔尖保护套白色pencil防丢三件套</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594447318077" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=594447318077" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=593830004328"><img alt="防误触手套电容笔绘画防滑平板电脑画画MINI5苹果笔手套" src="//img.alicdn.com/bao/uploaded/i2/O1CN014dFgCy24VsE2n1ykr_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=593830004328">防误触手套电容笔绘画防滑平板电脑画画MINI5苹果笔手套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>9.90</em></span></div>
+
+    					<div class="item-description">全国9.9包邮！新疆内蒙古西藏加10元运费！防误触手套电容笔绘画防滑平板电脑画画MINI5苹果applepencil触控笔适用于2018新款9.7ipad12.9寸Pro11手机10.5AIR</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=593830004328" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=593830004328" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=595838424323"><img alt="2个试用装包邮苹果笔笔尖套apple pencil笔尖套" src="//img.alicdn.com/bao/uploaded/i4/O1CN01YGkmDX1PwzR4kyDbZ_!!0-fleamarket.jpg_120x120"></a>
+
+    						
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=595838424323">2个试用装包邮苹果笔笔尖套apple pencil笔尖套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>9.90</em></span></div>
+
+    					<div class="item-description">2个试用装包邮苹果笔笔尖套applepencil笔尖套笔尖膜有质量问题包退没质量问题不给予退货2个装，9.9元包邮，偏远地区内蒙古西藏新疆除外！笔尖套笔套applepencil硅胶一代二代苹果pencil笔通用！笔尖套&amp;nb...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=595838424323" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=595838424323" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=593956548499"><img alt="适用于apple pencil笔套笔袋苹果笔保护&amp;hellip;" src="//img.alicdn.com/bao/uploaded/i3/O1CN01XnBo171FuZBb8e3e8_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=593956548499">适用于apple pencil笔套笔袋苹果笔保护&hellip;</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">转卖！全新未用！黑色笔盒1个，不带笔套等配件！需要笔套配件，点击我想要私聊！一代二代通用款苹果笔applepencil收纳盒防丢保护盒ipad手写笔配件pro包包ipencil2触控笔硬包保护套二代收纳盒</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=593956548499" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=593956548499" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=593621744379"><img alt="苹果apple pencil1笔套一代防丢保护套送笔尖套" src="//img.alicdn.com/bao/uploaded/i4/O1CN01KfCkLk1aoi2WDhwRH_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=593621744379">苹果apple pencil1笔套一代防丢保护套送笔尖套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>16.90</em></span></div>
+
+    					<div class="item-description">一手货源，工厂库存，比京东还便宜！适用苹果applepencil1笔套一代防丢保护套ipadpro手写笔套【笔套四件套】送收纳盒！点击我想要私聊，告诉我要什么颜色，提供多颜色选择！</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=593621744379" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=593621744379" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596550642829"><img alt="Apple pencil笔套一代笔用送笔尖套送笔尖套" src="//img.alicdn.com/bao/uploaded/i3/O1CN01BQQMtc1rWhx0VgNSC_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=596550642829">Apple pencil笔套一代笔用送笔尖套送笔尖套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">此链接一代笔专用笔套，粉色款。其他颜色点击我想要私聊！applepencil笔套苹果笔帽防丢硅胶保护&hellip;都有货，买来外销，顺便国内卖卖！applepencil一代二代笔尖套硅胶applepencil...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596550642829" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=596550642829" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597415320234"><img alt="苹果apple pencil笔套一代1可爱硅胶保护套ipad" src="//img.alicdn.com/bao/uploaded/i1/O1CN015pg45y1s1qt0ThAu1_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=597415320234">苹果apple pencil笔套一代1可爱硅胶保护套ipad</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">苹果applepencil笔套一代1可爱硅胶保护套ipad1代手写笔防滑新款防丢1代ipencil配件pro防摔超薄笔尖套笔帽</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597415320234" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=597415320234" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597979585666"><img alt="一代苹果笔套apple pencil 1代硅胶保护套笔尖套" src="//img.alicdn.com/bao/uploaded/i3/O1CN01kuxTvz20maEAxwAbN_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=597979585666">一代苹果笔套apple pencil 1代硅胶保护套笔尖套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">一手货源，工厂库存，比京东比某宝还便宜！拒绝暴利！便宜的价钱，一样的货，骗人是小狗！适用苹果applepencil1笔套一代防丢保护套ipadpro手写笔套【笔套四件套】送笔尖套！点击我想要私聊，告诉我要什么颜色，提供多颜色选择...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=597979585666" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=597979585666" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=598190162285"><img alt="苹果笔套一代pencil硅胶保护套卡通款pencil1笔尖套" src="//img.alicdn.com/bao/uploaded/i2/O1CN011r6ZDy2ADS0IbtjCk_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=598190162285">苹果笔套一代pencil硅胶保护套卡通款pencil1笔尖套</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>17.90</em></span></div>
+
+    					<div class="item-description">一手货源，工厂库存，比京东比某宝还便宜！拒绝暴利！便宜的价钱，一样的货，骗人是小狗！适用苹果applepencil1笔套一代防丢保护套ipadpro手写笔套，送收纳笔盒，送笔尖套！点击我想要私聊，告诉我要什么颜色，提供多颜色选...</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=598190162285" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=598190162285" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596819507059"><img alt="apple pencil 笔尖套硅胶套100个送收纳盒送支架" src="//img.alicdn.com/bao/uploaded/i4/O1CN01KGjqvL1RILWPJBlKx_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=596819507059">apple pencil 笔尖套硅胶套100个送收纳盒送支架</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>16.89</em></span></div>
+
+    					<div class="item-description">applepencil笔尖套硅胶套笔头套防滑降噪applepencil一代二代均可使用，防滑降噪保护笔尖，16.9元100个，包邮全国！！！量多更优惠！！！！</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=596819507059" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=596819507059" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+        	
+        	
+			
+			
+    			
+    			
+			
+			
+
+
+			
+				
+			
+    		
+    			
+			
+			
+                <li class="item-info-wrapper item-idle clearfix" data-spm="2007.1000337.18">
+
+                    <div class="item-info">
+
+                        <div class="item-pic sh-pic120">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594175925877"><img alt="apple pencil笔套苹果笔帽防丢硅胶保护&amp;hellip;" src="//img.alicdn.com/bao/uploaded/i3/O1CN01PLEBBL1RordLckAdg_!!0-fleamarket.jpg_120x120"></a>
+
+    						<span class="flag-item-new">全新转卖</span>
+    					</div>
+
+    					<h4 class="item-title"><a target="_blank" href="//2.taobao.com/item.htm?id=594175925877">apple pencil笔套苹果笔帽防丢硅胶保护&hellip;</a></h4>
+
+    					<div class="item-price price-block"><span class="price"><b>&yen</b><em>14.90</em></span></div>
+
+    					<div class="item-description">都有货，买来外销，顺便国内卖卖！applepencil一代二代笔尖套硅胶applepencil笔尖硅胶套防滑applepencil一代，二代都有，联系客服，点击我想要！，全国包邮，量多从优</div>
+
+    					<div class="item-pub-info">
+
+    						<span class="item-pub-time">5小时前</span>
+
+							
+                                <span class="item-pub-from"><a href="//2.taobao.com/mobile/iphone.htm" target="_blank">来自<p class="item-pub-from-app"></p></a></span>
+
+							
+    					</div>
+
+    					<div class="item-count">
+
+    						<a target="_blank" href="//2.taobao.com/item.htm?id=594175925877" class="item-comments">留言<em class="number">0</em></a>
+
+    						<!--<a target="_blank" href="//2.taobao.com/item.htm?id=594175925877" class="item-favorites">收藏<em class="number">0</em></a>-->
+
+    					</div>
+
+    				</div>
+
+
+
+    				<div class="seller-info-wrapper">
+
+    					<div class="seller-info">
+
+    						<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-avatar">
+
+    							<img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=lgxtbh123&width=60&height=60&type=sns&_input_charset=UTF-8">
+
+    						</a>
+
+    						<div class="seller-nick">
+
+    							<a target="_blank" href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="seller-nick-name">lgxtbh...</a>
+
+    							<span class="J_WangWang" data-nick="lgxtbh123" data-icon="small"></span>
+
+    						</div>
+
+    						<div class="seller-location">广东深圳</div>
+
+    						<div class="seller-icons">
+
+    							
+        							<span class="sh-user-vip sh-vip-icon5">vip5</span>
+
+        						
+        						
+    						</div>
+
+    					</div>
+
+                        <div class="seller-count">
+
+    						<a href="//s.2.taobao.com/list/list.htm?usernick=lgxtbh123" class="number" target="_blank">该卖家更多闲置</a>
+
+                        </div>
+
+    				</div>
+
+                    <!--[if lte IE 8]>
+
+                    <div class="rb-topleft"></div>
+
+                    <div class="rb-topright"></div>
+
+                    <div class="rb-bottomleft"></div>
+
+                    <div class="rb-bottomright"></div>
+
+                    <![endif]-->
+
+                </li>
+
+			
+		
+	</ul>
+
+</div>
+
+    						
+
+<div class="pagination">
+    <div class="wrapper">
+		<div id="J_Pages" class="paginator">
+        	        		<a class="paginator-pre" href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=10&amp;q=apple+pencil&amp;ist=0" hidefocus="true">上一页<span class="paginator-arrow-left"></span></a>
+        	        	        		        			<a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=8&amp;q=apple+pencil&amp;ist=0" hidefocus="true">8</a>
+        		        	        		        			<a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=9&amp;q=apple+pencil&amp;ist=0" hidefocus="true">9</a>
+        		        	        		        			<a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=10&amp;q=apple+pencil&amp;ist=0" hidefocus="true">10</a>
+        		        	        		        			<span class="paginator-curr"> 11 </span>        		        	        		        			<a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=12&amp;q=apple+pencil&amp;ist=0" hidefocus="true">12</a>
+        		        	        		        			<a href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=13&amp;q=apple+pencil&amp;ist=0" hidefocus="true">13</a>
+        		        	        	        		<span class="paginator-break">...</span>        		<a class="paginator-next" href="//s.2.taobao.com/list/list.htm?st_trust=1&amp;page=12&amp;q=apple+pencil&amp;ist=0" hidefocus="true">下一页<span class="paginator-arrow-right"></span></a>						<span class="paginator-count">共100页</span>
+        </div>
+    </div>
+</div>			
+            </div>
+        </div>
+		<div id="J_SideBar" class="sidebar">
+            <div id="J_GoTop" class="scroll-top">
+                <a href="javascript:void(0);"><span>返回顶部</span></a>
+            </div>
+            <a id="J_Advice" class="advice-sidebar" href="//ur.taobao.com/survey/view.htm?id=890" target="_blank">建议反馈</a>
+        </div>
+				<script type="text/javascript">
+        	KISSY.use('page/list');
+        </script>
+				<!--
+<div class="sh-footer" data-spm="2007.1000261.99">
+
+    <div class="logo-wrapper">
+        <div class="logo">淘宝二手</div>
+    </div>
+    <div class="qualifications">
+        <div class="icon auth">卖家实名认证</div>
+        <div class="icon alipay">支付宝担保交易</div>
+        <div class="icon group">专业团队支撑</div>
+        <div class="icon weibo">官方微博</div>
+        <a href="//trade.2.taobao.com/recycle/index.htm" target="_blank"><div class="icon recyclers">回收商入驻</div></a>
+    </div>
+
+</div>
+-->
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252911424'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1252911424' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<!--token-->
+<input id="J_tb_Token" type='hidden' name='_tb_token_' value='ee76b78b71e8e'>
+
+<div class="idle-footer" id="J_IdleFooter">
+  <div class="idle-footer-info">
+    <div class="idle-footer-download">
+      <span class="idle-footer-slogan"><img src="//img.alicdn.com/tps/i3/TB1naO0IFXXXXXsXFXXIU.iNXXX-332-76.png" alt="闲置能换钱" width="299"></span>
+      <a href="https://itunes.apple.com/cn/app/tao-bao-tiao-zao-jie-qing/id510909506" target="_blank" class="idle-download-ios"><img src="//img.alicdn.com/tps/i4/TB1VO4WHVXXXXcKXFXXfBBiHXXX-200-62.png" alt="闲鱼ios客户端下载" width="200" height="62"></a>
+      <a href="#nogo" target="_self" class="idle-download-android"><img src="//img.alicdn.com/tps/i2/TB1aOKTHVXXXXXdXpXXfBBiHXXX-200-62.png" alt="闲鱼android客户端下载" width="200" height="62"></a>
+      <span class="idle-qrcode"><img src="//img.alicdn.com/tps/i1/TB1nbl3HVXXXXaKXFXX07tlTXXX-200-200.png" alt="闲鱼" width="130" height="130"></span>
+    </div>
+    <div class="idle-footer-links">
+      <div class="idle-footer-links-box">
+        <a href="#nogo" target="_self" class="idle-footer-link-auth">卖家实名认证</a>
+        <a href="#nogo" target="_self" class="idle-footer-link-alipay">支付宝担保交易</a>
+        <a href="#nogo" target="_self" class="idle-footer-link-team">专业团队支撑</a>
+        <a href="http://weibo.com/taoershou" class="idle-footer-link-weibo">官方微博</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer-idle-new footer-with-logo" id="J_SiteFooter" data-spm="1997523009"
+data-spm-max-idx="44">
+  <div class="footer-hd">
+    <p>
+      <span>
+        <a href="http://www.alibabagroup.com/cn/global/home?spm=a21bo.50862.1997523009.1.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.1">
+          阿里巴巴集团
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="//www.taobao.com?spm=a21bo.50862.1997523009.2.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.2">
+          淘宝网
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="//www.tmall.com?spm=a21bo.50862.1997523009.3.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.3">
+          天猫
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="//ju.taobao.com?spm=a21bo.50862.1997523009.4.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.4">
+          聚划算
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.aliexpress.com?spm=a21bo.50862.1997523009.5.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.5">
+          全球速卖通
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.alibaba.com/?spm=a21bo.50862.1997523009.6.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.6">
+          阿里巴巴国际交易市场
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.1688.com?spm=a21bo.50862.1997523009.7.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.7">
+          1688
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.alimama.com?spm=a21bo.50862.1997523009.8.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.8">
+          阿里妈妈
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="//www.alitrip.com?spm=a21bo.50862.1997523009.9.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.9">
+          阿里旅行 · 去啊
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.aliyun.com?spm=a21bo.50862.1997523009.10.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.10">
+          阿里云计算
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.yunos.com?spm=a21bo.50862.1997523009.11.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.11">
+          YunOS
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.aliqin.cn/?spm=a21bo.50862.1997523009.12.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.12">
+          阿里通信
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.etao.com/?spm=a21bo.50862.1997523009.13.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.13">
+          一淘
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.net.cn?spm=a21bo.50862.1997523009.14.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.14">
+          万网
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.autonavi.com/?spm=a21bo.50862.1997523009.15.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.15">
+          高德
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.uc.cn/?spm=a21bo.50862.1997523009.16.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.16">
+          UC
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.umeng.com/?spm=a21bo.50862.1997523009.17.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.17">
+          友盟
+        </a>
+      </span>
+      <br>
+      <span>
+        <a href="http://www.xiami.com?spm=a21bo.50862.1997523009.18.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.18">
+          虾米
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.ttpod.com/?spm=a21bo.50862.1997523009.19.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.19">
+          天天动听
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.laiwang.com/?spm=a21bo.50862.1997523009.20.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.20">
+          来往
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.dingtalk.com/?spm=a21bo.50862.1997523009.21.0kiejZ&lwfrom=20150130160830727"
+        data-spm-anchor-id="a21bo.50862.1997523009.21">
+          钉钉
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="https://www.alipay.com" data-spm-anchor-id="a21bo.50862.1997523009.22">
+          支付宝
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        <a href="http://www.aligames.com/" data-spm-anchor-id="a21bo.50862.1997523009.22">
+          阿里游戏
+        </a>
+      </span>
+    </p>
+  </div>
+  <div class="footer-bd">
+    <p>
+      <span>
+        <a href="//www.taobao.com/about?spm=a21bo.50862.1997523009.23.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.23">
+          关于淘宝
+        </a>
+      </span>
+      <span>
+        <a href="//www.taobao.com/about/partners.php?spm=a21bo.50862.1997523009.24.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.24">
+          合作伙伴
+        </a>
+      </span>
+      <span>
+        <a href="//pro.taobao.com?spm=a21bo.50862.1997523009.25.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.25">
+          营销中心
+        </a>
+      </span>
+      <span>
+        <a href="http://jubao.alibaba.com?spm=a21bo.50862.1997523009.26.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.26">
+          廉正举报
+        </a>
+      </span>
+      <span>
+        <a href="//service.taobao.com/support/main/service_route.htm?spm=a21bo.50862.1997523009.27.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.27">
+          联系客服
+        </a>
+      </span>
+      <span>
+        <a href="//open.taobao.com?spm=a21bo.50862.1997523009.28.0kiejZ" data-spm-anchor-id="a21bo.50862.1997523009.28">
+          开放平台
+        </a>
+      </span>
+      <span>
+        <a href="//www.taobao.com/about/join.php?spm=a21bo.50862.1997523009.29.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.29">
+          诚征英才
+        </a>
+      </span>
+      <span>
+        <a href="//www.taobao.com/about/contact.php?spm=a21bo.50862.1997523009.30.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.30">
+          联系我们
+        </a>
+      </span>
+      <span>
+        <a href="//www.taobao.com/sitemap.php?spm=a21bo.50862.1997523009.31.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.31">
+          网站地图
+        </a>
+      </span>
+      <span>
+        <a href="//terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html"
+        data-spm-anchor-id="a21bo.50862.1997523009.32">
+          法律声明及隐私权政策
+        </a>
+      </span>
+      <span>
+        <a href="http://ipp.alibabagroup.com/?spm=a21bo.50862.1997523009.33.0kiejZ"
+        data-spm-anchor-id="a21bo.50862.1997523009.33">
+          知识产权
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <em>
+        2003-2016 Taobao.com 版权所有
+      </em>
+    </p>
+    <p>
+      <span>
+        网络文化经营许可证：
+        <a href="//img.alicdn.com/tps/i2/TB1YFcPLpXXXXaiXFXXcaDpFFXX-803-473.png"
+        data-spm-anchor-id="a21bo.50862.1997523009.34">
+          浙网文[2013]0268-027号
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        增值电信业务经营许可证：
+        <a href="http://zcainfo.miitbeian.gov.cn/state/outPortal/loginPortal.action?spm=a21bo.50862.1997523009.35.0kiejZ&file=loginPortal.action"
+        data-spm-anchor-id="a21bo.50862.1997523009.35">
+          浙B2-20080224
+        </a>
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        信息网络传播视听节目许可证：1109364号
+      </span>
+      <b>
+        |
+      </b>
+      <span>
+        互联网违法和不良信息举报电话:0571-81683755 blxx@list.alibaba-inc.com
+      </span>
+    </p>
+  </div>
+  <div class="footer-ft">
+    <span>
+      <a target="_blank" href="http://www.pingpinganan.gov.cn/?spm=a21bo.50862.1997523009.36.0kiejZ"
+      class="mod" style="background-position: 0px 0px;width:36px;background-image:url(//img.alicdn.com/tps/i1/T1FeW3XXNfXXXXXXXX-36-36.gif);"
+      data-spm-anchor-id="a21bo.50862.1997523009.36">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="http://idinfo.zjaic.gov.cn/bscx.do?spm=a21bo.50862.1997523009.37.0kiejZ&method=hddoc&id=33018400000067"
+      class="mod" style="background-position: 0px 0px;width:30px;" data-spm-anchor-id="a21bo.50862.1997523009.37">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="http://idinfo.zjaic.gov.cn/bscx.do?spm=a21bo.50862.1997523009.38.0kiejZ&method=hddoc&id=33018400000067"
+      class="mod" style="background-position: -40px 0px;width:33px;" data-spm-anchor-id="a21bo.50862.1997523009.38">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="http://www.theclimategroup.org.cn/about/friend?spm=a21bo.50862.1997523009.39.0kiejZ"
+      class="mod" style="background-position: -80px 0px;width:50px;" data-spm-anchor-id="a21bo.50862.1997523009.39">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="https://ss.knet.cn/verifyseal.dll?spm=a21bo.50862.1997523009.40.0kiejZ&sn=2010062300100001357&pa=20100701"
+      class="mod" style="background-position: -140px 0px;width:83px;" data-spm-anchor-id="a21bo.50862.1997523009.40">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="http://www.ppaaol.com/verifySite.do?spm=a21bo.50862.1997523009.41.0kiejZ&id=1051"
+      class="mod" style="background-position: -240px 0px;width:94px;" data-spm-anchor-id="a21bo.50862.1997523009.41">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="http://www.12377.cn/?spm=a21bo.50862.1997523009.42.0kiejZ"
+      class="mod" style="background-position: -431px 0px;width:214px;" data-spm-anchor-id="a21bo.50862.1997523009.42">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="http://www.12377.cn/node_548446.htm?spm=a21bo.50862.1997523009.43.0kiejZ"
+      class="mod" style="background-position: -650px 0px;width:105px;" data-spm-anchor-id="a21bo.50862.1997523009.43">
+      </a>
+    </span>
+    <span>
+      <a target="_blank" href="//img.alicdn.com/tps/i2/TB1YFcPLpXXXXaiXFXXcaDpFFXX-803-473.png"
+      class="mod" style="background-position: -345px 0px;width:82px;" data-spm-anchor-id="a21bo.50862.1997523009.44">
+      </a>
+    </span>
+  </div>
+</div>
+<script>
+  KISSY.use('widget/footer5/index');
+</script>
+
+<div align="center" id="server-num">idle011027055226.center.na62</div>
+
+<div id="J_Feedback4bug" data-version-id="20038"></div>
+
+
+
+
+		<script src='//w.cnzz.com/c.php?id=30058275' ></script>
+    </body>
+</html>

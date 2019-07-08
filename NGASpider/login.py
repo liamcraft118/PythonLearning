@@ -14,9 +14,14 @@ if __name__ == '__main__':
     for line in cookies.split(';'):
         name, value = cookies.strip().split('=', 1)
         cookie[name] = value
-    print(cookie)
+    # print(cookie)
+
+    ip_r = requests.get("http://127.0.0.1:5010/get/", timeout=3)
+    ip = ip_r.text
+
     header = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-    proxy = {'http': 'http://112.85.130.28:9999', 'https': 'https://112.85.130.28:9999'}
+    proxy = {'http': 'http://' + ip, 'https': 'https://' + ip}
+    # r = requests.get(url, cookies=cookie, headers=header, timeout=5)
     r = requests.get(url, cookies=cookie, headers=header, proxies=proxy, timeout=5)
     r.encoding = 'gbk'
     print(r.text)
