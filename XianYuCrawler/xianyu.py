@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from lxml import etree
 from downloader import Downloader
-import analyzer
+import Analyzer
 import fileManager
 
 
@@ -23,12 +22,12 @@ class XianYuCrawler:
             text = self.request(url)
             fileManager.write(self.file_name, text)
 
-            list_info = analyzer.analyze_xianyu_list(text)
+            list_info = Analyzer.analyze_xianyu_list(text)
             detail_url_list = list_info[0]
             for detail_url in detail_url_list:
                 url = 'https:' + detail_url
-                # text = self.request(url)
-                text = self.selenium_request(url)
+                text = self.request(url)
+                # text = self.selenium_request(url)
                 fileManager.write(self.detail_file_name, text)
 
             self.page += 1
