@@ -74,7 +74,7 @@ class Downloader:
         return result
 
     def get_proxies(self):
-        url = 'http://127.0.0.1:5010/get/'
+        url = 'http://47.103.22.188:5010/get/'
         response = requests.get(url)
         ip = response.text
         return {'http': 'http://' + ip, 'https': 'https://' + ip}

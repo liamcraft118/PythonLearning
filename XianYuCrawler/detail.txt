@@ -4,10 +4,10 @@
 	<head>
     	<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    	<meta name="description" content="apple pencil 二手，上闲鱼.淘宝二手，担保交易，先行赔付，假一赔三，七天无理由退换货，让你全面安心购物。" />
-    	<meta name="keywords" content="apple pencil - 闲鱼.淘宝二手" />
+    	<meta name="description" content="日本进口2018新款iPad Pro11寸类纸贴&amp;hellip; 二手，上闲鱼.淘宝二手，担保交易，先行赔付，假一赔三，七天无理由退换货，让你全面安心购物。" />
+    	<meta name="keywords" content="日本进口2018新款iPad Pro11寸类纸贴&amp;hellip; - 闲鱼.淘宝二手" />
     	<meta name="spm-id" content="2007.1000338"/>
-    	<title >apple pencil - 闲鱼.淘宝二手  </title>
+    	<title >&#26085;&#26412;&#36827;&#21475;2018&#26032;&#27454;iPad Pro11&#23544;&#31867;&#32440;&#36148;&amp;hellip; - 闲鱼.淘宝二手  </title>
 		<script>window.g_config={appId:1007,toolbar:false};</script>
 		
     
@@ -26,7 +26,7 @@
 <!-- end idle vmcommon assets 4.0-->
     </head>
     <body ><script>
-with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=&asid=AQAAAADCkyRdAQ5EFgAAAAAFoa9DZ5WmNg==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=&asid=AQAAAACuTSVdlL7FMwAAAADRra+NYkWFyg==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
 </script>
 
 		<script>(function(){var a=document.body;window.screen.width>1024?a.className="w1190":a.className="w990"})();</script>
@@ -97,36 +97,36 @@ KISSY.use('widget/header5/index');
 
 		<div id="content">
 			<div id="page">
-                <div id="idle-detail" data-token="fbefd65b5e6e3">
+                <div id="idle-detail" data-token="ebbe3e1587eba">
     <div class="top-nav clearfix">
     <div class="others-wrap">
     	<ul class="others clearfix">
 
-    		            <li id="J_Browse" data-url="//count.taobao.com/counter3?keys=ICVT_7_598208361231&amp;inc=ICVT_7_598208361231&amp;sign=5247130ded05eec1279edaf3e7c2bbe8c9ce9" data-key="ICVT_7_598208361231">
+    		            <li id="J_Browse" data-url="//count.taobao.com/counter3?keys=ICVT_7_597542308770&amp;inc=ICVT_7_597542308770&amp;sign=8408db60228332817140018aab70b6c8cc08" data-key="ICVT_7_597542308770">
     			<h5>宝贝浏览次数</h5>
     			<span>加载中...</span>
     		</li>
-    		<li><h5>最近编辑</h5><span>2019-07-09 21:06</span></li>
+    		<li><h5>最近编辑</h5><span>2019-07-10 10:27</span></li>
 			                <li class="tn-item-from"><a target="_blank" href="//www.taobao.com/market/2/new-fish.php"><h5>来自</h5><p class="tn-item-icon"></p></a></li>
 			        </ul>
 	</div>
-	<div class="seller-info" id="J_SellerInfo" data-url="//2.taobao.com/itemref/trade_ratting.htm?uid=IXm7Iv8xyMG7IvF9-PCgWP88yXFH0vHkbvClzPCZIPH8T">
+	<div class="seller-info" id="J_SellerInfo" data-url="//2.taobao.com/itemref/trade_ratting.htm?uid=IMFPHPkxbMmH4OH7-MG8YM88SOFgyPGgYOmh-vmZzMGHT">
         <div class="simple" data-spm="2007.1000338.1">
-            <div class="avatar"><img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=老季北风之神&width=30&height=30&type=sns&_input_charset=UTF-8"></div>
+            <div class="avatar"><img src="//wwc.alicdn.com/avatar/getAvatar.do?userNick=winifredxin&width=30&height=30&type=sns&_input_charset=UTF-8"></div>
 			<div class="wangwang">
-                <a href="//2.taobao.com/credit/credit.htm?userIdCode=IXm7Iv8xyMG7IvF9-PCgWP88yXFH0vHkbvClzPCZIPH8T" class="hCard fn" target="_blank">老季北风之神</a>
+                <a href="//2.taobao.com/credit/credit.htm?userIdCode=IMFPHPkxbMmH4OH7-MG8YM88SOFgyPGgYOmh-vmZzMGHT" class="hCard fn" target="_blank">winifredxin</a>
             </div>
 			<div class="user-icons">
                 <span title="已通过实名认证" class="user-verify" ></span>
-                <span title="vip1" class="vip-level  vip-level1" rel="nofollow" ></span>
+                <span title="vip0" class="vip-level  vip-level0" rel="nofollow" ></span>
             </div>
 			<b class="arrow-wrap"><i class="arrow"></i></b>
         </div>
 		<div class="details"> </div>
         <textarea id="J_SellerTPL" class="hidden" data-spm="2007.1000338.2">
             <div class="basic-info">
-                <p> 男</p>
-                <p>注册时间：2016-07-17</p>
+                <p> 女</p>
+                <p>注册时间：2017-03-12</p>
             </div>
             <div class="seller-rate">
                 <h4>转卖<strong> {soldCount} </strong>笔，<strong> {rateCount} </strong>人评价</h4>
@@ -136,41 +136,46 @@ KISSY.use('widget/header5/index');
                 </ul>
             </div>
             <div class="check-more">
-                <a class="check-info" href="//2.taobao.com/credit/credit.htm?userIdCode=IXm7Iv8xyMG7IvF9-PCgWP88yXFH0vHkbvClzPCZIPH8T" target="_blank">查看卖家信息</a>
+                <a class="check-info" href="//2.taobao.com/credit/credit.htm?userIdCode=IMFPHPkxbMmH4OH7-MG8YM88SOFgyPGgYOmh-vmZzMGHT" target="_blank">查看卖家信息</a>
                 <b class="arrow-wrap"><i class="arrow"></i></b>
             </div>
         </textarea>
     </div>
 	<div>
-    	    		<a href="//110.alibaba.com/report/commodity_route.htm?901001=598208361231&from_source=tb" data-id="598208361231" target="_blank" class="inform">举报该宝贝</a>
+    	    		<a href="//110.alibaba.com/report/commodity_route.htm?901001=597542308770&from_source=tb" data-id="597542308770" target="_blank" class="inform">举报该宝贝</a>
     		</div>
 </div>    <div class="layout grid-s730m0">
         <div class="col-main">
             <div class="main-wrap">
                 <div class="property"  id="J_Property">
-    <h1 class="title">apple pencil</h1>
+    <h1 class="title">日本进口2018新款iPad Pro11寸类纸贴&hellip;</h1>
     <ul class="price-info">
         <li class="price-block">
             <span class="para">转&nbsp;&nbsp;卖&nbsp;&nbsp;价：</span>
-            <span class="price big"><b>&yen;</b><em>400.00</em></span>
+            <span class="price big"><b>&yen;</b><em>60.00</em></span>
 							    				<span class="bargain-tip">
                         <i class="i-tip"></i>该商品拒绝讲价！
                     </span>
     						        </li>
+					<li class="price-block">
+                <span class="para">原　　价：</span>
+                <b>&yen;</b>
+                <span>78.42</span>
+            </li>
 		    </ul>
     <ul class="idle-info" data-spm="2007.1000338.3">
 		<li>
     		 <span class="para">成　　色：</span>
-             <em>非全新</em>
+             <em>全新</em>
         </li>
         <li>
             <span class="para">所&nbsp;&nbsp;在&nbsp;&nbsp;地：</span>
-            <em>山东济南 长清区</em>
+            <em>北京北京 海淀区</em>
         </li>
 					<li class="contact">
                 <span class="para">联系方式：</span>
     			    							<div style="display:none">
-                    <span class="J_WangWang" data-nick="老季北风之神" data-icon="large"></span>
+                    <span class="J_WangWang" data-nick="winifredxin" data-icon="large"></span>
                 </div>
             </li>
             <li class="trade-terms" id="J_TradeWrap">
@@ -180,30 +185,30 @@ KISSY.use('widget/header5/index');
                         <a id="J_Region" class="region" href="#" data-default="500000">
         					至 <em id="J_RegionName">重庆</em><i></i>
                         </a>
-                        <span id="J_Carriage" class="fee" data-url="//adpmanager.taobao.com/detail/delivery_detail.do?itemId=598208361231">运费：<em class="rmb">&yen;</em><span id="J_Fee">加载中...</span></span>
+                        <span id="J_Carriage" class="fee" data-url="//adpmanager.taobao.com/detail/delivery_detail.do?itemId=597542308770">运费：<em class="rmb">&yen;</em><span id="J_Fee">加载中...</span></span>
                     </li>
     			            </li>
 		    </ul>
 	    	<div class="buy-now" data-spm="2007.1000338.4">
-    <a id="J_BuyNow" data-url="//buy.2.taobao.com/buy/buy.htm?from=itemDetail&amp;x_id=&amp;id=598208361231&amp;item_id=598208361231" class="btn" href="#">立刻购买</a>
+    <a id="J_BuyNow" data-url="//buy.2.taobao.com/buy/buy.htm?from=itemDetail&amp;x_id=&amp;id=597542308770&amp;item_id=597542308770" class="btn" href="#">立刻购买</a>
 </div>
 <form id="J_FrmBid" action="//buy.2.taobao.com/buy/buy_now.jhtml" method="post">
-	<input type="hidden" id="J_ItemNumId" name="item_num_id" value="598208361231"/>
+	<input type="hidden" id="J_ItemNumId" name="item_num_id" value="597542308770"/>
 	<input type="hidden" id="J_TradeTermInput" name="idle_trade_style"/>
-	<input type="hidden" name="item_id_num" value="598208361231"/>
-	<input type="hidden" name="item_id" value="598208361231"/>
-	<input type="hidden" name="auction_id" value="598208361231"/>
+	<input type="hidden" name="item_id_num" value="597542308770"/>
+	<input type="hidden" name="item_id" value="597542308770"/>
+	<input type="hidden" name="auction_id" value="597542308770"/>
 	<input type="hidden" name="auction_type" value="b"/>
-	<input type="hidden" name="title" value="apple pencil"/>
-	<input type="hidden" name="seller_id" value="IXm7Iv8xyMG7IvF9-PCgWP88yXFH0vHkbvClzPCZIPH8T"/>
+	<input type="hidden" name="title" value="日本进口2018新款iPad Pro11寸类纸贴&hellip;"/>
+	<input type="hidden" name="seller_id" value="IMFPHPkxbMmH4OH7-MG8YM88SOFgyPGgYOmh-vmZzMGHT"/>
 	<input type="hidden" name="allow_quantity" value="1"/>
 	<input type="hidden" name="seller_nickname" value=""/>
 	<input type="hidden" name="from" value="idleDetail"/>
-	<input type="hidden" name="current_price" value="400.00"/>
+	<input type="hidden" name="current_price" value="60.00"/>
 	<input type="hidden" name="buy_now" value=""/>
 	<input type="hidden" name="photo_url" value=""/>
 	<input type="hidden" name="quantity" value="1"/>
-	<input type='hidden' name='_tb_token_' value='fbefd65b5e6e3'>
+	<input type='hidden' name='_tb_token_' value='ebbe3e1587eba'>
 </form>
 
 <div id="J_BargainContent" class="hidden">
@@ -232,11 +237,11 @@ KISSY.use('widget/header5/index');
 	</div>
 </div>    	    	    	
         <div class="do-more clearfix" data-spm="2007.1000338.5">
-            <div class="share" id="J_Share" data-comment="矮油，不错哦！在淘宝二手发现个挺靠谱的闲置宝贝，只卖400.00元。你们帮我参谋参谋，如何？" data-url="//count.taobao.com/counter3?keys=DFX_200_1_598208361231" data-count="//2.taobao.com/activity/grantPoints.htm?type=1&_tb_token_=fbefd65b5e6e3" data-key="DFX_200_1_598208361231">
+            <div class="share" id="J_Share" data-comment="矮油，不错哦！在淘宝二手发现个挺靠谱的闲置宝贝，只卖60.00元。你们帮我参谋参谋，如何？" data-url="//count.taobao.com/counter3?keys=DFX_200_1_597542308770" data-count="//2.taobao.com/activity/grantPoints.htm?type=1&_tb_token_=ebbe3e1587eba" data-key="DFX_200_1_597542308770">
                 <a class="btn" href="#">分享（<em class="J_ShareCount">0</em>）</a>
             </div>
-            <div class="favorite" data-url="//count.taobao.com/counter3?keys=ICCP_1_598208361231" data-key="ICCP_1_598208361231">
-               <a class="btn" id="J_AddFav" data-url="//trade.2.taobao.com/care_item.htm?id=598208361231&_tb_token_=fbefd65b5e6e3" href="javascript:void(0);">赞（<em>0</em>）</a>
+            <div class="favorite" data-url="//count.taobao.com/counter3?keys=ICCP_1_597542308770" data-key="ICCP_1_597542308770">
+               <a class="btn" id="J_AddFav" data-url="//trade.2.taobao.com/care_item.htm?id=597542308770&_tb_token_=ebbe3e1587eba" href="javascript:void(0);">赞（<em>0</em>）</a>
 				              </div>
         </div>
 		 <div class="guarantee_new">
@@ -249,9 +254,9 @@ KISSY.use('widget/header5/index');
         <strong class="desc">经支付宝核实会员身份和银行账户信息,真实可靠。</strong>
     </div>
 </div>
-	</div>                <div id="J_OtherIdles"  data-spm="2007.1000338.6" class="idle-box other-idles" data-url="//2.taobao.com/itemref/more_onsale.htm?userNick=%C0%CF%BC%BE%B1%B1%B7%E7%D6%AE%C9%F1&id=598208361231">
+	</div>                <div id="J_OtherIdles"  data-spm="2007.1000338.6" class="idle-box other-idles" data-url="//2.taobao.com/itemref/more_onsale.htm?userNick=winifredxin&id=597542308770">
     <h4>卖家的其它闲置<span class="total"></span></h4>
-    <a href="//s.2.taobao.com/list/list.htm?usernick=老季北风之神" target="_blank" class="more">更多</a>
+    <a href="//s.2.taobao.com/list/list.htm?usernick=winifredxin" target="_blank" class="more">更多</a>
     <div class="entity loading"> </div>
 </div>            </div>
         </div>
@@ -270,7 +275,7 @@ KISSY.use('widget/header5/index');
 
     					 <a href="javascript:void(0);">
 
-							<img class="big-img" src="//assets.alicdn.com/p/fp/2011a/assets/space.gif" lazyload-img="//img.alicdn.com/bao/uploaded/i3/O1CN01xaeMKI1k3D8gmIwVv_!!0-fleamarket.jpg_728x728.jpg"/>
+							<img class="big-img" src="//assets.alicdn.com/p/fp/2011a/assets/space.gif" lazyload-img="//img.alicdn.com/bao/uploaded/i2/21681732/O1CN01HTBWr41OfIVwMFz5K_!!21681732.jpg_728x728.jpg"/>
 
 															<div class='mau-guide'>
 									<img class='guide-img' src='//gw.alicdn.com/tps/TB1t7jmLpXXXXbGXVXXXXXXXXXX-480-340.png' />
@@ -290,7 +295,23 @@ KISSY.use('widget/header5/index');
 
     					 <a href="javascript:void(0);">
 
-							<img class="big-img" src="//assets.alicdn.com/p/fp/2011a/assets/space.gif" lazyload-img="//img.alicdn.com/bao/uploaded/i3/O1CN01zaQRAT1d9tbtpPYfK_!!0-fleamarket.jpg_728x728.jpg"/>
+							<img class="big-img" src="//assets.alicdn.com/p/fp/2011a/assets/space.gif" lazyload-img="//img.alicdn.com/bao/uploaded/i4/O1CN01clDGek1eNvM85Ophc_!!0-fleamarket.jpg_728x728.jpg"/>
+
+							
+						 </a>
+
+						 
+                	</li>
+
+    			
+    		
+    			
+        			
+        			<li class="item sh-pic">
+
+    					 <a href="javascript:void(0);">
+
+							<img class="big-img" src="//assets.alicdn.com/p/fp/2011a/assets/space.gif" lazyload-img="//img.alicdn.com/bao/uploaded/i1/O1CN01stHBfX1fUclUhUjLj_!!0-fleamarket.jpg_728x728.jpg"/>
 
 							
 						 </a>
@@ -318,7 +339,7 @@ KISSY.use('widget/header5/index');
 
             					 <a href="javascript:void(0);">
 
-        							<img class="small-img"  src="//img.alicdn.com/bao/uploaded/i3/O1CN01xaeMKI1k3D8gmIwVv_!!0-fleamarket.jpg_80x60.jpg" />
+        							<img class="small-img"  src="//img.alicdn.com/bao/uploaded/i2/21681732/O1CN01HTBWr41OfIVwMFz5K_!!21681732.jpg_80x60.jpg" />
 
         						 </a>
 
@@ -332,7 +353,21 @@ KISSY.use('widget/header5/index');
 
             					 <a href="javascript:void(0);">
 
-        							<img class="small-img"  src="//img.alicdn.com/bao/uploaded/i3/O1CN01zaQRAT1d9tbtpPYfK_!!0-fleamarket.jpg_80x60.jpg" />
+        							<img class="small-img"  src="//img.alicdn.com/bao/uploaded/i4/O1CN01clDGek1eNvM85Ophc_!!0-fleamarket.jpg_80x60.jpg" />
+
+        						 </a>
+
+                        	</li>
+
+            			
+            		
+            			
+                			
+                			<li class="sh-pic " >
+
+            					 <a href="javascript:void(0);">
+
+        							<img class="small-img"  src="//img.alicdn.com/bao/uploaded/i1/O1CN01stHBfX1fUclUhUjLj_!!0-fleamarket.jpg_80x60.jpg" />
 
         						 </a>
 
@@ -361,7 +396,7 @@ KISSY.use('widget/header5/index');
 
                 
 
-                <!--li class="J_TabTrigger" id="J_MSCount" data-key="101_598208361231" data-url="//comment.jianghu.taobao.com/json/commentCount.htm?keys=101_598208361231">
+                <!--li class="J_TabTrigger" id="J_MSCount" data-key="101_597542308770" data-url="//comment.jianghu.taobao.com/json/commentCount.htm?keys=101_597542308770">
 
 					<a href="#message" id="messages" name="messages">留言（<span>0</span>）</a>
 
@@ -397,13 +432,45 @@ KISSY.use('widget/header5/index');
 
 		
 		
-		<div data-url="//osdsc.alicdn.com/i1/591/201/598208361231/TB1XQo4Xq67gK0jSZFH8qu9jVla.desc%7Cvar%5Edesc%3Bsign%5Efea49f4f14786337661dc040a2970ba9%3Blang%5Egbk%3Bt%5E1562677567" class="describe" id="J_DescContent">
+		<div data-url="//osdsc.alicdn.com/i4/590/540/597542308770/TB1nkaCbMFY.1VjSZFq8qudbXla.desc%7Cvar%5Edesc%3Bsign%5Ed61a58e09198949ac550418f7859b1fb%3Blang%5Egbk%3Bt%5E1562725660" class="describe" id="J_DescContent">
 
 			 
 				描述加载中，请稍候...
 
              
 		</div>
+
+		
+			<div class="record clearfix" data-spm="2007.1000338.9">
+
+                <h4>购买记录:</h4>
+
+                <b class="arrow"></b>
+
+                <div class="record-pic sh-pic80">
+
+					
+						<img src="//img.alicdn.com/bao/uploaded/i2/21681732/O1CN01HTBWr41OfIVwMFz5K_!!21681732.jpg_80x80.jpg" alt="">
+
+					
+                </div>
+
+                <div class="record-info">
+
+                    <p>当时原价：78.42元</p>
+
+					
+						<p>颜色分类：适用iPad 2018 9.7英寸</p>
+
+					
+                    <p>时间店铺：2019年06月23日，从淘宝卖家 roamerhouse 店里买到。</p>
+
+					
+                    <p>原宝贝地址：<a href="//item.taobao.com/item.htm?id=587566991834" target="_blank">http://item.taobao.com/item.htm?id=587566991834</a></p>
+
+                </div>
+
+            </div>
 
 		
 
@@ -432,9 +499,9 @@ KISSY.use('widget/header5/index');
 
         <h2><b>留言</b></h2>
 
-        <div id="J_Message" data-targetkey="598208361231" data-recuserid="IXm7Iv8xyMG7IvF9-PCgWP88yXFH0vHkbvClzPCZIPH8T" data-title="apple pencil"></div>
+        <div id="J_Message" data-targetkey="597542308770" data-recuserid="IMFPHPkxbMmH4OH7-MG8YM88SOFgyPGgYOmh-vmZzMGHT" data-title="日本进口2018新款iPad Pro11寸类纸贴&hellip;"></div>
 
-		<input id="J_Token" type='hidden' name='_tb_token_' value='fbefd65b5e6e3'>
+		<input id="J_Token" type='hidden' name='_tb_token_' value='ebbe3e1587eba'>
 
     </div>
 
@@ -508,7 +575,7 @@ KISSY.use('widget/header5/index');
 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252911424'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1252911424' type='text/javascript'%3E%3C/script%3E"));</script>
 
 <!--token-->
-<input id="J_tb_Token" type='hidden' name='_tb_token_' value='fbefd65b5e6e3'>
+<input id="J_tb_Token" type='hidden' name='_tb_token_' value='ebbe3e1587eba'>
 
 <div class="idle-footer" id="J_IdleFooter">
   <div class="idle-footer-info">
@@ -877,7 +944,7 @@ data-spm-max-idx="44">
   KISSY.use('widget/footer5/index');
 </script>
 
-<div align="center" id="server-num">idle011011129184.center.na62</div>
+<div align="center" id="server-num">idle011010225133.center.na61</div>
 
 <div id="J_Feedback4bug" data-version-id="20038"></div>
 
