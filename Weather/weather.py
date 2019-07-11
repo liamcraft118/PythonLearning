@@ -49,9 +49,9 @@ if __name__ == '__main__':
     today = daily[0]
     tomorrow = daily[1]
     after_tomorrow = daily[2]
-    today_text = '今天白天 %s， 今天夜间 %s， 最高气温 %s， 最低气温%s' % (today[0], today[1], today[2], today[3])
-    tomorrow_text = '明天白天 %s， 明天夜间 %s， 最高气温 %s， 最低气温%s' % (tomorrow[0], tomorrow[1], tomorrow[2], tomorrow[3])
-    after_tomorrow_text = '后天白天 %s， 明天夜间 %s， 最高气温 %s， 最低气温%s' % (after_tomorrow[0], after_tomorrow[1], after_tomorrow[2], after_tomorrow[3])
+    today_text = '今天白天 %s, 今天夜间 %s,\n 最高气温 %s, 最低气温%s' % (today[0], today[1], today[2], today[3])
+    tomorrow_text = '明天白天 %s, 明天夜间 %s,\n 最高气温 %s, 最低气温%s' % (tomorrow[0], tomorrow[1], tomorrow[2], tomorrow[3])
+    after_tomorrow_text = '后天白天 %s, 明天夜间 %s,\n 最高气温 %s, 最低气温%s' % (after_tomorrow[0], after_tomorrow[1], after_tomorrow[2], after_tomorrow[3])
 
     greeting_text = '乖乖懒提醒您'
     daily_text = greeting_text + '\n\n' + now_text + '\n\n' + today_text + '\n\n' + tomorrow_text + '\n\n' + after_tomorrow_text
