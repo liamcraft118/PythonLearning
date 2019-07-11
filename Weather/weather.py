@@ -2,6 +2,7 @@
 
 import requests
 import json
+import time
 from ding_robot import DingRobot
 
 
@@ -42,9 +43,11 @@ class Weather:
 if __name__ == '__main__':
     w = Weather()
 
+    # now
     now = w.now()
     now_text = '当前天气为 %s, 温度为 %s' % (now[0], now[1])
 
+    # daily
     daily = w.daily()
     today = daily[0]
     tomorrow = daily[1]
@@ -53,9 +56,15 @@ if __name__ == '__main__':
     tomorrow_text = '明天白天 %s, 明天夜间 %s,\n 最高气温 %s, 最低气温%s' % (tomorrow[0], tomorrow[1], tomorrow[2], tomorrow[3])
     after_tomorrow_text = '后天白天 %s, 明天夜间 %s,\n 最高气温 %s, 最低气温%s' % (after_tomorrow[0], after_tomorrow[1], after_tomorrow[2], after_tomorrow[3])
 
+    # greeting
+    weeks = ['星期天', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六']
+    localtime = time.localtime()
+    week_code = int(time.strftime("%w", localtime))
+    week_text = weeks[week_code]
+    date_text = time.strftime("%Y年%m月%d日", time.localtime())
+    time_text = '今天是' + ' ' + date_text + ' ' + week_text
     greeting_text = '乖乖懒提醒您'
-    daily_text = greeting_text + '\n\n' + now_text + '\n\n' + today_text + '\n\n' + tomorrow_text + '\n\n' + after_tomorrow_text
+    daily_text = time_text + '\n\n' + greeting_text + '\n\n' + now_text + '\n\n' + today_text + '\n\n' + tomorrow_text + '\n\n' + after_tomorrow_text
 
     robot = DingRobot(DingRobot.XIN_ZHI_WEATHER)
-    robot.send_text(now_text)
     robot.send_text(daily_text)
