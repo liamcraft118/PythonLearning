@@ -27,6 +27,7 @@ def selenium_request(url):
     driver = webdriver.PhantomJS(desired_capabilities=dcap)
     driver.set_page_load_timeout(30)
     driver.set_script_timeout(30)
+    driver.implicitly_wait(10)
     # print(driver.execute_script('return navigator.userAgent'))
     print('********request begin********')
     print('url = %s' % url)
