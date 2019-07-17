@@ -7,8 +7,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-EMAIL = '122794105@qq.com'
-PASSWORD = 'python123'
+EMAIL = 'ingocraft118@gmail.com'
+PASSWORD = 'vPdhF2CcNpw6g;Ch9n'
 BORDER = 6
 
 class CrackGeetest():
@@ -26,7 +26,7 @@ class CrackGeetest():
 
     def get_geetest_button(self):
         ''' 获取初始验证按钮,return：按钮对象 '''
-        button = self.wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'geetest_radar_tip_content')))
+        button = self.wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'btn-login')))
         return button
 
     def get_position(self):
@@ -63,8 +63,8 @@ class CrackGeetest():
     def open(self):
         ''' 打开网页输入用户名密码, return: None '''
         self.browser.get(self.url)
-        email = self.wait.until(EC.presence_of_element_located((By.XPATH, '//input[@placeholder="邮箱"]')))
-        password = self.wait.until(EC.presence_of_element_located((By.XPATH, '//input[@placeholder="密码"]')))
+        email = self.wait.until(EC.presence_of_element_located((By.XPATH, '//input[@placeholder="Email"]')))
+        password = self.wait.until(EC.presence_of_element_located((By.XPATH, '//input[@placeholder="Password"]')))
         email.send_keys(self.email)
         password.send_keys(self.password)
 
@@ -157,6 +157,8 @@ class CrackGeetest():
         self.open()
         # 点击验证按钮
         button = self.get_geetest_button()
+        print(button)
+        time.sleep(0.4)
         button.click()
         # 获取验证码图片
         image1 = self.get_geetest_image('captcha1.png')
